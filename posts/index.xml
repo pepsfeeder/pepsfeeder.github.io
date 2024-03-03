@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PepsFeeder</title>
+    <link>https://pepsfeeder.github.io/posts/</link>
+    <description>Recent content in Posts on PepsFeeder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 14:07:52 +0100</lastBuildDate><atom:link href="https://pepsfeeder.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post To Be Removed</title>
+      <link>https://pepsfeeder.github.io/posts/mypost/</link>
+      <pubDate>Sun, 03 Mar 2024 14:07:52 +0100</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/posts/mypost/</guid>
+      <description>This is some content
+public static void main(String[]args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
