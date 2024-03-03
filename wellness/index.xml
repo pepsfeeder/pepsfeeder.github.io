@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellnesses on PepsFeeder</title>
+    <link>https://pepsfeeder.github.io/wellness/</link>
+    <description>Recent content in Wellnesses on PepsFeeder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020 pepsfeeder</copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 18:58:18 +0000</lastBuildDate><atom:link href="https://pepsfeeder.github.io/wellness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wellness</title>
+      <link>https://pepsfeeder.github.io/wellness/wellness/</link>
+      <pubDate>Sat, 10 Oct 2020 18:58:18 +0000</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/wellness/wellness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
