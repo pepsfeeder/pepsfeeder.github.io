@@ -120,22 +120,19 @@ const CACHE_VERSIONS = {
   offline: "offline-v" + CACHE_VERSION,
   notFound: "404-v" + CACHE_VERSION,
 };
-
-// Define MAX_TTL's in SECONDS for specific file extensions
 const MAX_TTL = {
+  // Define MAX_TTL's in SECONDS for specific file extensions
   "/": 3600,
   html: 3600,
   json: 86400,
   js: 86400,
   css: 86400,
 };
-
 const CACHE_BLACKLIST = [
   //(str) => {
   //    return !str.startsWith('http://localhost') && !str.startsWith('https://gohugohq.com');
   //},
 ];
-
 const SUPPORTED_METHODS = ["GET"];
 
 /**
@@ -146,15 +143,14 @@ const SUPPORTED_METHODS = ["GET"];
 function isBlacklisted(url) {
   return CACHE_BLACKLIST.length > 0
     ? !CACHE_BLACKLIST.filter(rule => {
-        if (typeof rule === "function") {
-          return !rule(url);
-        } else {
-          return false;
-        }
-      }).length
+      if (typeof rule === "function") {
+        return !rule(url);
+      } else {
+        return false;
+      }
+    }).length
     : false;
 }
-
 /**
  * getFileExtension
  * @param {string} url
@@ -164,7 +160,6 @@ function getFileExtension(url) {
   let extension = url.split(".").reverse()[0].split("?")[0];
   return extension.endsWith("/") ? "/" : extension;
 }
-
 /**
  * getTTL
  * @param {string} url
@@ -181,7 +176,6 @@ function getTTL(url) {
     return null;
   }
 }
-
 /**
  * installServiceWorker
  * @returns {Promise}
@@ -201,12 +195,12 @@ function installServiceWorker() {
     return self.skipWaiting();
   });
 }
-
 /**
  * cleanupLegacyCache
  * @returns {Promise}
  */
 function cleanupLegacyCache() {
+
   let currentCaches = Object.keys(CACHE_VERSIONS).map(key => {
     return CACHE_VERSIONS[key];
   });
@@ -241,7 +235,6 @@ function cleanupLegacyCache() {
       });
   });
 }
-
 function precacheUrl(url) {
   if (!isBlacklisted(url)) {
     caches.open(CACHE_VERSIONS.content).then(cache => {
@@ -269,9 +262,8 @@ function precacheUrl(url) {
 self.addEventListener("install", event => {
   event.waitUntil(Promise.all([installServiceWorker(), self.skipWaiting()]));
 });
-
-// The activate handler takes care of cleaning up old caches.
 self.addEventListener("activate", event => {
+  // The activate handler takes care of cleaning up old caches.
   event.waitUntil(
     Promise.all([
       cleanupLegacyCache(),
@@ -282,7 +274,6 @@ self.addEventListener("activate", event => {
     })
   );
 });
-
 self.addEventListener("fetch", event => {
   event.respondWith(
     caches.open(CACHE_VERSIONS.content).then(cache => {
@@ -343,7 +334,8 @@ self.addEventListener("fetch", event => {
                     ~SUPPORTED_METHODS.indexOf(event.request.method) &&
                     !isBlacklisted(event.request.url)
                   ) {
-                    cache.put(event.request, response.clone());
+                    if (event.request.url.startsWith('http'))
+                      cache.put(event.request, response.clone());
                   }
                   return response;
                 } else {
@@ -373,7 +365,6 @@ self.addEventListener("fetch", event => {
     })
   );
 });
-
 self.addEventListener("message", event => {
   if (typeof event.data === "object" && typeof event.data.action === "string") {
     switch (event.data.action) {

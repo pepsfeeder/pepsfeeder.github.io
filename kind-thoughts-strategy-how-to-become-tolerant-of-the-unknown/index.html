@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link disabled id="dark-mode-theme" rel="stylesheet" href="css/dark.css"><script type="application/ld+json">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="https://pepsfeeder.github.io//css/dark.css"><script type="application/ld+json">
 
 {
   "@context": "https://schema.org",
@@ -70,7 +70,9 @@
   <script src="/js/script.js"></script>
   <script src="/js/custom.js"></script>
   <script defer src="/js/fontawesome.js"></script>
+  
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5968995164040249"
     crossorigin="anonymous"></script>
 
@@ -83,6 +85,10 @@
 
     gtag('config', 'G-BL9EPT4XBW');
   </script>
+
+
+    
+
 </head>
 
 <body>
@@ -91,7 +97,7 @@
     <h1 class="site-title">
       <a href="/"><img src="/images/logo.png" alt="logo"></a>
     </h1>
-    <a style="font-size: 8px; text-decoration: none" id="dark-mode-toggle" class="fal fa-moon-o">Dark Mode</a>
+    <a style="font-size: 8px; text-decoration: none; cursor: pointer;" id="dark-mode-toggle" class="fal fa-moon-o">Dark Mode</a>
     <div class="topnav" id="myTopnav">
       <a href="/" title="Home">Home</a>
       <a href="/wellness" title="Wellness">Wellness</a>
@@ -339,6 +345,7 @@ I got more than 100 answers and found that in many ways people have the same pro
 </ul>
   </div>
   
+  
   <script>
       var toggle = document.getElementById("dark-mode-toggle");
       var darkTheme = document.getElementById("dark-mode-theme");
@@ -368,16 +375,215 @@ I got more than 100 answers and found that in many ways people have the same pro
 </div>
 
 
-  <div class="cookie-container">
-  <p>
-    We use cookies on this website to give you the best experience on our
-    site and show you relevant ads. To find out more, read our
-    <a style="color:blue;" href="/privacy/">privacy policy</a> and <a style="color:blue;" href="/terms/">terms of use</a> and <a style="color:blue;" href="/dcma/">DCMA</a>.
-  </p>
-  <button class="cookie-btn">
-    I understand
-  </button>
+  <style>
+    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #consent-notice span {margin-right: 1rem;}
+    #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
+    #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
+    #consent-notice button.btn {margin-left: 0.5rem;}
+    #consent-notice button.btn.manage-consent {background: rgba(255,255,255,0.1); font-weight: normal;}
+    
+    #consent-overlay {position: fixed; left: 0; top: 0; width: 100%; height: 100vh; display: none; background: rgba(0,0,0,0.75); z-index: 999999; overflow: auto; cursor: pointer;}
+    #consent-overlay.active {display: flex;}
+    #consent-overlay > div {background: white; width: 100%; max-width: 30rem; padding: 1.75rem; margin: auto; cursor: initial;}
+    #consent-overlay > div > div {display: flex; align-items: flex-start; margin-bottom: 1rem;}
+    #consent-overlay > div > div:last-child {margin: 0;}
+    #consent-overlay h3 {padding-top: 0;}
+    #consent-overlay input {margin-top: 0.3rem;}
+    #consent-overlay label {display: block;}
+    #consent-overlay .btn {margin-right: 0.5rem;}
+    #consent-overlay button.btn.save-consent {background: rgba(0,0,0,0.6); font-weight: normal;}
+
+    @media (max-width: 767px) {
+        #consent-overlay > div {padding: 1.75rem 1rem;}
+        #consent-notice span {display: block; padding-top: 3px; margin-bottom: 1.5rem;}
+        #consent-notice button.btn {position: relative; bottom: 4px;}
+    }
+</style>
+
+<div id="consent-notice">
+    <span>We would like to use <a class="manage-consent" href="#manage-consent">cookies</a> to improve the functionality of this website.</span>
+    <button class="btn manage-consent">Manage preferences</button><button class="btn deny-consent">Deny</button><button class="btn approve-consent">Allow</button>
+    <br /> 
+    To find out more, read our <a style="color:blue;" href="/privacy/">privacy policy</a> and <a style="color:blue;" href="/terms/">terms of use</a> and <a style="color:blue;" href="/dcma/">DCMA</a>.
 </div>
+<div id="consent-overlay">
+    <div>
+        
+            <div>
+                
+                <input type="checkbox" id="item0" value="1" name="item0" checked disabled />
+                <label for="item0">
+                    <h3>Strictly necessary</h3>
+                    <p>These are necessary for the website to function and you cannot switch them off. They are usually to enable options like dark mode, and for security to remember your privacy preferences. You can set your browser to block or alert you about these cookies, but some parts of the site will then not work. These cookies don&#39;t contain any information that can directly identify you.</p>
+                </label>
+            </div>
+        
+            <div>
+                
+                <input type="checkbox" id="item1" value="1" name="item1"  />
+                <label for="item1">
+                    <h3>Performance</h3>
+                    <p>This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on. We follow the guidelines of CCPA and GDPR, which describe how to use Analytics without requiring explicit consent.</p>
+                </label>
+            </div>
+        
+            <div>
+                
+                <input type="checkbox" id="item2" value="1" name="item2"  />
+                <label for="item2">
+                    <h3>Functional</h3>
+                    <p>These allow the  website to provide more functionality and personalisation. They may be set by us or by third-party providers whose services we have added to our pages. If you turn them off, some or all of these services may not work properly.</p>
+                </label>
+            </div>
+        
+            <div>
+                
+                <input type="checkbox" id="item3" value="1" name="item3"  />
+                <label for="item3">
+                    <h3>Targeting / advertising</h3>
+                    <p>These are provided by our advertising partners. We use their cookies and site visit pixels for remarketing and to measure and improve the effectiveness of our marketing campaigns. This means that those partners (Google, Meta, LinkedIn, and Instagram) can show our ads to people who have recently visited our websites. Our aim is to retarget businesses who are intersted in our solutions, not individuals browsing the site, but we are not able to distinguish between them.</p>
+                </label>
+            </div>
+        
+        <div>
+            <button id="save-consent" class="btn save-consent" data-consentvalue="000">Save preferences</button>
+            <button class="btn approve-consent">Allow all</button>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    const scripts = [];
+    scripts[ 0 ] = "/js/perf.js";
+    scripts[ 1 ] = "/js/func.js";
+    scripts[ 2 ] = "/js/ads.js";
+
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+    function denyAllConsentScripts() {
+        var consentValue = "";
+        scripts.forEach(function(){
+            consentValue = consentValue + "0";
+        });
+        acceptSomeConsentScripts(consentValue);
+    }
+    function acceptAllConsentScripts() {
+        var consentValue = "";
+        scripts.forEach(function(){
+            consentValue = consentValue + "1";
+        });
+        acceptSomeConsentScripts(consentValue);
+    }
+    function acceptSomeConsentScripts(consentValue) {
+        setConsentInputs(consentValue);
+        createCookie('consent-settings',consentValue,31);
+        document.getElementById('consent-notice').style.display = 'none';
+        document.getElementById('consent-overlay').classList.remove('active');
+        loadConsentScripts(consentValue);
+    }
+    function loadConsentScripts(consentValue) {
+        scripts.forEach(function(value,key){
+            
+            if(consentValue[key]=="1") {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.src = value;
+                document.body.appendChild(s);
+            }
+        });
+    }
+    function setConsentInputs(consentValue) {
+        var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
+        elements.forEach(function(el,index) {
+            if(consentValue[index]=="1") el.checked = true;
+            else el.checked = false;
+        });
+    }
+    function setConsentValue() {
+        var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
+        var consentValue = "";
+        elements.forEach(function(el) {
+            if(el.checked) consentValue = consentValue + "1";
+            else consentValue = consentValue + "0";
+        });
+        document.getElementById("save-consent").dataset.consentvalue = consentValue;
+    }
+
+    var elements = document.querySelectorAll('#consent-overlay input:not([disabled])');
+    elements.forEach(function(el) {
+        el.checked = false;
+    });
+
+    if(readCookie('consent-settings')) {
+        var consentValue = readCookie('consent-settings').toString();
+        
+        setConsentInputs(consentValue);
+        loadConsentScripts(consentValue);
+    } else {
+        document.getElementById('consent-notice').style.display = 'block';
+    }
+    var elements = document.querySelectorAll('.manage-consent');
+    elements.forEach(function(el) {
+        el.addEventListener("click",function() {
+            document.getElementById('consent-overlay').classList.toggle('active');
+        });
+    });
+    var elements = document.querySelectorAll('.deny-consent');
+    elements.forEach(function(el) {
+        el.addEventListener("click",function() {
+            denyAllConsentScripts();
+        });
+    });
+    var elements = document.querySelectorAll('.approve-consent');
+    elements.forEach(function(el) {
+        el.addEventListener("click",function() {
+            acceptAllConsentScripts();
+        });
+    });
+    document.getElementById("save-consent").addEventListener("click",function() {
+        setConsentValue();
+        acceptSomeConsentScripts(this.dataset.consentvalue);
+    });
+    document.getElementById("consent-overlay").addEventListener("click",function(e) {
+        if (!document.querySelector("#consent-overlay > div").contains(e.target)){
+            this.classList.toggle('active');
+        }
+    });
+</script>
+
+
+    
+        <script type="text/javascript" src="/js/strict.js"></script>
+    
+
+    
+
+    
+
+    
+
   
   <script>
     if (window.netlifyIdentity) {
@@ -389,20 +595,6 @@ I got more than 100 answers and found that in many ways people have the same pro
         }
       });
     }
-
-    const cookieContainer = document.querySelector(".cookie-container");
-    const cookieButton = document.querySelector(".cookie-btn");
-
-    cookieButton.addEventListener("click", () => {
-      cookieContainer.classList.remove("active");
-      localStorage.setItem("cookieBannerDisplayed", "true");
-    });
-
-    setTimeout(() => {
-      if (!localStorage.getItem("cookieBannerDisplayed")) {
-        cookieContainer.classList.add("active");
-      }
-    }, 2000);
 
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
