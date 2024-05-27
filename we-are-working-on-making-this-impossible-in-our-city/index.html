@@ -63,7 +63,7 @@
 <link rel="manifest" href="/manifest.json">
 <meta property="fb:pages" content="461752997953233" />
 
-  <link rel="stylesheet" href="/css/style.css" media="all" />
+<link rel="stylesheet" href="/css/style.css" media="all" />
   <link rel="stylesheet" href="/css/syntax.css" media="all" />
   <link rel="stylesheet" href="/css/custom.css" media="all" />
 
@@ -85,10 +85,6 @@
 
     gtag('config', 'G-BL9EPT4XBW');
   </script>
-
-
-    
-
 </head>
 
 <body>
@@ -97,7 +93,7 @@
     <h1 class="site-title">
       <a href="/"><img src="/images/logo.png" alt="logo"></a>
     </h1>
-    <a style="font-size: 8px; text-decoration: none; cursor: pointer;" id="dark-mode-toggle" class="fal fa-moon-o">Dark Mode</a>
+    <a style="font-size: 8px; text-decoration: none; cursor: pointer;" id="dark-mode-toggle" class="fa-solid fa-moon">Dark Mode</a>
     <div class="topnav" id="myTopnav">
       <a href="/" title="Home">Home</a>
       <a href="/wellness" title="Wellness">Wellness</a>
@@ -105,7 +101,7 @@
       <a href="/lifestyle" title="Lifestyle">Lifestyle</a>
       <a href="/entertainment" title="Entertainment">Entertainment</a>
       <a href="/genz" title="Gen Z">Gen Z</a>
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+      <a href="javascript:void(0);" class="icon" onclick="TopNav()"><i class="fa-solid fa-bars"></i></a>
     </div>
   </nav>
 </header>
@@ -232,9 +228,9 @@
       setTheme(savedTheme);
 
       toggle.addEventListener("click", () => {
-          if (toggle.className === "fal fa-moon-o") {
+          if (toggle.className === "fa-solid fa-moon") {
               setTheme("dark");
-          } else if (toggle.className === "fal fa-sun-o") {
+          } else if (toggle.className === "fa-solid fa-sun") {
               setTheme("light");
           }
       });
@@ -243,10 +239,10 @@
           localStorage.setItem("dark-mode-storage", mode);
           if (mode === "dark") {
               darkTheme.disabled = false;
-              toggle.className = "fal fa-sun-o";
+              toggle.className = "fa-solid fa-sun";
           } else if (mode === "light") {
               darkTheme.disabled = true;
-              toggle.className = "fal fa-moon-o";
+              toggle.className = "fa-solid fa-moon";
           }
       }
   </script>
@@ -464,6 +460,7 @@
     
 
   
+  
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
@@ -474,7 +471,10 @@
         }
       });
     }
-
+  </script>
+  
+  
+  <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
             .register('/sw.js', { scope: '/' })
