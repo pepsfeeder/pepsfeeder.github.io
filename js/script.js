@@ -24,7 +24,7 @@ function setTheme(mode) {
     }
 }
 
-// Managing consent
+// Managing cookies
 function getCookie(name) {
     function escape(s) { return s.replace(/([.*+?\^$(){}|\[\]\/\\])/g, '\\$1'); }
     var match = document.cookie.match(RegExp('(?:^|;\\s*)' + escape(name) + '=([^;]*)'));
@@ -32,7 +32,3 @@ function getCookie(name) {
 }
 
 var consent = getCookie("consent-settings")
-
-if (consent.toString()[0] == 1) console.log("analytics ready to go")
-if (consent.toString()[1] == 1) console.log("funcitonal ready to go")
-if (consent.toString()[2] == 1) console.log("advertising ready to go")
