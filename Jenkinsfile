@@ -31,10 +31,9 @@ pipeline {
         }
         stage("Clean up") {
             steps {
-                sh '''#!/bin/bash
-                cd ..
-                rm -r PepsFeeder
-                '''
+                dir('/home/jenkins/workspace') {
+                    sh 'rm -r PepsFeeder'
+                }
             }
         }
         stage("Send Report to Slack") {
