@@ -1,15 +1,15 @@
 ###### TODOs
-[ ] Add subscription (mailchimp toward automation)
-[ ] Stream to other categories
-[ ] make the system robust and scale it
-[ ] implement search function that appears in google search results (see nugget)
-[ ] pepsfeeder a stream of newsletters: ns > llm > article > publish > market (arxive.org every sub sub subject, gmail subs)
-[ ] search golang for data pipeline
-[ ] a program that goes mine a keyword and its knowledge graph (intense cpu) when it finishes it keeps watching the tip of the news on that topic, or goes social - >> - >> - >> pipeline
-[ ] automation and pepsfeeder alignement
-[ ] know how to spot the story (news), the trend and who are the audience surfing it (da7miss) both sides
-[ ] system that publish to pepsfeeder, can publish from the library (directory is topic), i can take a pipeline to manual guidance like when reading dev, publish manually
-[ ] take a pdf, construct words tree, graph ... (gematria), give them to the llm and blog about them, take new books, new content from good reads, from research site, google keywords api,  trends.... and publish them
+- [ ] Add subscription (mailchimp toward automation)
+- [ ] Stream to other categories
+- [ ] make the system robust and scale it
+- [ ] implement search function that appears in google search results (see nugget)
+- [ ] pepsfeeder a stream of newsletters: ns > llm > article > publish > market (arxive.org every sub sub subject, gmail subs)
+- [ ] search golang for data pipeline
+- [ ] a program that goes mine a keyword and its knowledge graph (intense cpu) when it finishes it keeps watching the tip of the news on that topic, or goes social - >> - >> - >> pipeline
+- [ ] automation and pepsfeeder alignement
+- [ ] know how to spot the story (news), the trend and who are the audience surfing it (da7miss) both sides
+- [ ] system that publish to pepsfeeder, can publish from the library (directory is topic), i can take a pipeline to manual guidance like when reading dev, publish manually
+- [ ] take a pdf, construct words tree, graph ... (gematria), give them to the llm and blog about them, take new books, new content from good reads, from research site, google keywords api,  trends.... and publish them
 
 ###### Components
 - Integrate static search (pagefind)
