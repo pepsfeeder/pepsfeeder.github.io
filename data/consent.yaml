@@ -1,0 +1,17 @@
+items:
+  - title: Strictly necessary
+    description: These are necessary for the website to function and you cannot switch them off. They are usually to enable options like dark mode, and for security to remember your privacy preferences. You can set your browser to block or alert you about these cookies, but some parts of the site will then not work. These cookies don't contain any information that can directly identify you.
+    is_functional: true
+    script_file: strict.js
+  - title: Performance
+    description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on. We follow the guidelines of CCPA and GDPR, which describe how to use Analytics without requiring explicit consent.
+    is_functional: false
+    script_file: perf.js
+  - title: Functional
+    description: These allow the  website to provide more functionality and personalisation. They may be set by us or by third-party providers whose services we have added to our pages. If you turn them off, some or all of these services may not work properly.
+    is_functional: false
+    script_file: func.js
+  - title: Targeting / advertising
+    description: These are provided by our advertising partners. We use their cookies and site visit pixels for remarketing and to measure and improve the effectiveness of our marketing campaigns. This means that those partners (Google, Meta, LinkedIn, and Instagram) can show our ads to people who have recently visited our websites. Our aim is to retarget businesses who are intersted in our solutions, not individuals browsing the site, but we are not able to distinguish between them. 
+    is_functional: false
+    script_file: ads.js

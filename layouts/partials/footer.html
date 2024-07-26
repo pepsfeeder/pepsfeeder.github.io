@@ -1,0 +1,28 @@
+<div class="site-footer">
+  <p>Get all the latest interesting, hilarious, and mind-blowing news & stories on the Web.</p>
+  <div class="copyright">{{ .Site.Copyright | safeHTML }}</div>
+  <ul class="site-footer-items">
+    {{- with .OutputFormats.Get "RSS" }}
+    <li class="site-footer-item-rsslink">
+      <a href="{{ .RelPermalink }}" type="application/rss+xml" target="_blank" title="RSS">
+        <i class="fas fa-rss"></i>
+      </a>
+    </li>
+    {{- end }}
+    {{- range .Site.Menus.footer }}
+    <li class="site-footer-item-{{ .Identifier }}"><a href="{{ .URL | safeURL }}" title="{{ .Name }}">{{ .Name }}</a>
+    </li>
+    {{- end }}
+  </ul>
+  <div class="powerdby">
+    {{ partial "social.html" . }}
+  </div>
+  
+  <script src="{{ "js/script.js" | relURL }}"></script>
+  <script src="{{ "js/custom.js" | relURL }}"></script>
+
+  <!-- netlify -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+</div>
+{{ template "_internal/google_analytics.html" . }}

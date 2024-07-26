@@ -1,0 +1,7 @@
+[submodule "pepsfeeder/themes/hugo-book"]
+	path = pepsfeeder/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "pepsfeeder/public"]
+	path = pepsfeeder/public
+	url = https://github.com/pepsfeeder/pepsfeeder.github.io.git
+	branch = main

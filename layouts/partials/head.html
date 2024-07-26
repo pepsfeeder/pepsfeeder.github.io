@@ -1,0 +1,50 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="google-adsense-account" content="ca-pub-5968995164040249">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="{{ .Site.BaseURL }}/css/dark.css">
+  {{- partial "schema.html" . }}
+  {{- if .IsHome }}
+  <title>{{ .Site.Title }}</title>
+  <meta property="og:title" content="{{ .Site.Title }}" />
+  <meta name="twitter:title" content="{{ .Site.Title | truncate 70 }}" />
+  {{- else }}
+  <link rel=”icon” type=”image/ico” href=”/images/9748pepslogo.ico” />
+  <title>{{ .Title }} - {{ .Site.Title }}</title>
+  <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+  <meta name="twitter:title" content="{{ printf " %s - %s" .Title .Site.Title | truncate 70 }}" />
+  {{- end }}
+  {{- with .Description | default .Params.subtitle | default .Summary }}
+  <meta name="description" content="{{ . }}">
+  <meta property="og:description" content="{{ . }}">
+  <meta name="twitter:description" content="{{ . | truncate 200 }}">
+  {{- end }}
+  <meta name="author" content="{{ .Site.Params.author.name }}" />
+  {{- with .Site.Params.favicon }}
+  <link rel='icon' type='image/x-icon' href="{{ . | absURL }}" />
+  {{- end }}
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:url" content="{{ .Permalink | absURL }}" />
+  {{- if .IsPage }}
+  <meta property="og:type" content="article" />
+  {{- else }}
+  <meta property="og:type" content="website" />
+  {{- end }}
+  {{- with default .Params.image | default .Site.Params.logo }}
+  <meta property="og:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image" content="{{ . | absURL }}" />
+  {{- end }}
+  <meta name="twitter:card" content="summary" />
+  {{- with .Site.Params.twitter }}
+  <meta name="twitter:site" content="@{{ . }}" />
+  <meta name="twitter:creator" content="@{{ . }}" />
+  {{- end }}
+  {{ hugo.Generator }}
+
+  {{- with .OutputFormats.Get "RSS" }}
+  <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  {{- end }}
+
+  {{- partial "head_custom.html" . }}
+</head>

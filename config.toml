@@ -1,0 +1,134 @@
+baseURL = 'https://pepsfeeder.github.io/'
+languageCode = 'en-us'
+title = 'PepsFeeder'
+# theme= 'hugo-book'
+
+# Disqus shortname
+disqusShortname = "pepsfeeder-com-1"
+# google analytics tracking id
+# googleAnalytics = "UA-151759850-1"
+
+summaryLength = 25
+
+googlefonts = "https://fonts.googleapis.com/css?family=Merriweather|Fira+Mono|Droid+Sans|Fira+Code"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright 2024 pepsfeeder"
+
+[params]
+  logo = "images/logo.png"
+  header = "PEPSFEEDER"
+
+  facebook = "pepsfeeder"
+  twitter = "pepsfeeder"
+  instagram = "pepsfeeder"
+  # whether to use CDN or local file for fontawesome
+  #useCDN = false
+  # whether to include external sharing scripts and icons for twitter, facebook and co.
+  #showShareIcons = false
+  # Date format
+  #dateFormat = "January 2, 2006"
+
+# This is displayer in About page.
+[params.author]
+  name = "Chris Mano"
+  # Gravatar or Abatar image
+  gravatar = "Gravatar email or MD5 Hash"
+  #avatar = "/path/to/avatar"
+
+  twitter = "pepsfeeder"
+  facebook = "profile.php?id=61559995936805"
+  pinterest = "pepsfeeder"
+  email = "support@pepsfeeder.com"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Header Menu
+[[menu.main]]
+  name = "Home"
+  identifier = "home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Wellness"
+  identifier = "wellness"
+  url = "/wellness"
+  weight = 2
+[[menu.main]]
+  name = "News"
+  identifier = "news"
+  url = "/news"
+  weight = 3
+[[menu.main]]
+  name = "Lifestyle"
+  identifier = "lifestyle"
+  url = "/lifestyle"
+  weight = 4
+[[menu.main]]
+  name = "Entertainment"
+  identifier = "entertainment"
+  url = "/entertainment"
+  weight = 5
+[[menu.main]]
+  name = "Gen Z"
+  identifier = "genz"
+  url = "/genz"
+  weight = 6
+
+# Footer Menu
+[[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+[[menu.footer]]
+  name = "Authors"
+  weight = 2
+  identifier = "authors"
+  url = "/authors/"
+[[menu.footer]]
+  name = "Contacts"
+  weight = 3
+  identifier = "contacts"
+  url = "/contacts/"
+[[menu.footer]]
+  name = "DMCA"
+  weight = 4
+  identifier = "dcma"
+  url = "/dcma/"
+[[menu.footer]]
+  name = "Privacy Policy"
+  weight = 5
+  identifier = "privacy"
+  url = "/privacy/"
+[[menu.footer]]
+  name = "Terms of Use"
+  weight = 6
+  identifier = "terms"
+  url = "/terms/"
+[[menu.footer]]
+  name = "Staff"
+  weight = 7
+  identifier = "staff"
+  url = "/staff/"
+
+defaultContentLanguage = 'en'
+# defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = 'content'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 1
+  [languages.ar]
+    contentDir = 'content/ar'
+    disabled = true
+    languageCode = 'ar-AR'
+    languageDirection = 'rtl'
+    languageName = 'Arabic'
+    weight = 2

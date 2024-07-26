@@ -1,0 +1,46 @@
+
+{{ define "main" }}
+{{ with .Site.GetPage "/posts" }}
+  <div class="main" role="main">
+    <section class="list {{ .Kind }}-list">
+      {{- range .Pages }}
+      {{- if eq .Type "post" }}
+      {{- if or (eq .Params.author "Chris Manoel") (eq .Params.author "Matthew Rozsa") }}
+      <article class="article">
+        <a href="{{ .Permalink | relURL }}" class="article-titles">
+          <h2 class="article-title">{{ .Title }}</h2>
+          {{ with .Params.subtitle }}<h3 class="article-subtitle">{{ . }}</h3>{{ end }}
+        </a>
+        {{- if .Params.image }}
+        <a href="{{ .Permalink | relURL }}"><img src="{{ .Params.image }}" class="article-image" /></a>
+        {{- end }}
+        <div class="article-content">
+          {{- if .Truncated }}
+          {{ .Summary }}
+          {{- else }}
+          {{ .Content }}
+          {{- end }}
+        </div>
+        <div class="article-readmore"><a href="{{ .Permalink | relURL }}">Read more...</a></div>
+        <div class="article-floatclear"></div>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>{{ .Date.Format (default "January 2, 2006" $.Site.Params.dateFormat) }}</time></li>
+          {{- if .Params.tags }}
+          {{- range .Params.tags }}
+          <li class="article-meta-tags">
+            <a href="{{ "/" | relURL }}tags/{{ . | urlize }}/">
+              <i class="fas fa-tag"></i>
+              {{ . }}
+            </a>&nbsp;
+          </li>
+          {{- end }}
+          {{- end }}
+        </ul>
+      </article>
+      {{- end }}
+      {{- end }}
+      {{- end }}
+    </section>
+  </div>
+{{ end }}
+{{ end }}
