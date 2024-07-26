@@ -31,10 +31,11 @@ pipeline {
         }
         stage("Clean up") {
             steps {
-                sh '''#!/bin/bash
-                    cd workspace
+                dir('workspace') {
+                    sh '''#!/bin/bash
                     rm -r PepsFeeder
-                '''
+                    '''
+                }
             }
         }
         stage("Send Report to Slack") {
