@@ -44,7 +44,7 @@ GH_TOKEN=PAT_REMOVED
 Google analytics events: link click, header click, footer click, button click, email click, phone click, scroll, session duration, error_404, page loaded, cookiebot, consent mode
 
 ###### Resources
-[Google Search documentation](https://developers.google.com/search/docs)
-[Cookie Consent with Google Tag Manager](https://youtu.be/Weml0MiOk-o)
-[Consent Mode V2](https://youtu.be/KVXnCdImOSk)
+- [Google Search documentation](https://developers.google.com/search/docs)
+- [Cookie Consent with Google Tag Manager](https://youtu.be/Weml0MiOk-o)
+- [Consent Mode V2](https://youtu.be/KVXnCdImOSk)
 
