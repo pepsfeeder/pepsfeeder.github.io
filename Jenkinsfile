@@ -32,7 +32,8 @@ pipeline {
         stage("Clean up") {
             steps {
                 sh '''#!/bin/bash
-                ls
+                cd ..
+                rm -r PepsFeeder
                 '''
             }
         }
