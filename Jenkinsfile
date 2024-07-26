@@ -11,7 +11,7 @@ pipeline {
         stage('Install Hugo') {
             steps {
                 sh '''#!/bin/bash
-                    
+
                 '''
             }
         }
@@ -32,7 +32,8 @@ pipeline {
         stage("Clean up") {
             steps {
                 sh '''#!/bin/bash
-                rm -r PepsFeeder
+                    cd workspace
+                    rm -r PepsFeeder
                 '''
             }
         }
