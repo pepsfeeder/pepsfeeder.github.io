@@ -43,6 +43,16 @@ GH_TOKEN=PAT_REMOVED
 ###### Google Tags
 Google analytics events: link click, header click, footer click, button click, email click, phone click, scroll, session duration, error_404, page loaded, cookiebot, consent mode
 
+###### Deployment
+rm -rf public
+git submodule add https://github.com/pepsfeeder/pepsfeeder.github.io.git public
+
+hugo
+cd public
+git add .
+git commit -m "Deploy"
+git push
+
 ###### Resources
 - [Google Search documentation](https://developers.google.com/search/docs)
 - [Cookie Consent with Google Tag Manager](https://youtu.be/Weml0MiOk-o)
