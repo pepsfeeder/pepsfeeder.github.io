@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="main authors-list">
+  <h1>{{ .Title }}</h1>
+  {{ range .Pages }}
+  <div class="author-profile">
+    {{ if .Params.image }}
+    <img loading="lazy" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" width="150" height="150" />
+    {{ end }}
+    <div>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ if .Params.role }}
+      <p class="author-role">{{ .Params.role }}</p>
+      {{ end }}
+      {{ if .Params.email }}
+      <p class="author-email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
+      {{ end }}
+      {{ if .Params.phone }}
+      <p class="author-phone">📱 {{ .Params.phone }}</p>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
