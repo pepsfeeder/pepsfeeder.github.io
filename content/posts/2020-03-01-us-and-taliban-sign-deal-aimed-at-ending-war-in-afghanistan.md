@@ -1,6 +1,6 @@
 ---
 title: US and Taliban sign deal aimed at ending war in Afghanistan
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T06:28:50.000Z

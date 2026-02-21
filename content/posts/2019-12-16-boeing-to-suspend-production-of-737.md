@@ -1,6 +1,6 @@
 ---
 title: Boeing to Suspend Production of 737
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-12-16T23:40:54.000Z

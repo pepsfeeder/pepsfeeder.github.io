@@ -1,6 +1,6 @@
 ---
 title: Media faces challenges in covering coronavirus outbreak
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T18:23:05.000Z

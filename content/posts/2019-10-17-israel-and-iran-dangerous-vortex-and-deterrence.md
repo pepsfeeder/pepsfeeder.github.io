@@ -1,6 +1,6 @@
 ---
 title: 'Israel and Iran: dangerous vortex and deterrence'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-10-17T11:58:18.000Z

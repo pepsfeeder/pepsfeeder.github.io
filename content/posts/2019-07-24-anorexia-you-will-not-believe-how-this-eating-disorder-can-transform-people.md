@@ -1,5 +1,5 @@
 ---
-title: Anorexia -- You will not believe how this eating disorder can transform people
+title: Anorexia - You will not believe how this eating disorder can transform people
 categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post

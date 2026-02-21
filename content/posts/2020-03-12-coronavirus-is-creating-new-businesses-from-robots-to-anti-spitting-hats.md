@@ -1,6 +1,6 @@
 ---
 title: 'Coronavirus is creating new businesses, from robots to anti-spitting hats'
-categories: ["news"]
+categories: ["strategy"]
 author: Chris Manoel
 type: post
 date: 2020-03-12T02:18:02.000Z

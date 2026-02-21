@@ -1,6 +1,6 @@
 ---
 title: Tips for choosing a last-minute gift that everyone likes
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 categories: lifestyle

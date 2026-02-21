@@ -1,6 +1,6 @@
 ---
 title: Are you an introvert? Investing in business is the road to success
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 categories: lifestyle

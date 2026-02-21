@@ -1,6 +1,6 @@
 ---
 title: US worshippers grapple with virus burdens others have borne
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-05T14:26:33.000Z

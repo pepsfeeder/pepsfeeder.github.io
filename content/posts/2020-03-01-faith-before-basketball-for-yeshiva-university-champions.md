@@ -1,6 +1,6 @@
 ---
 title: Faith before basketball for Yeshiva University champions
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-01T23:21:24.000Z

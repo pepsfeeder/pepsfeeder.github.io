@@ -1,6 +1,6 @@
 ---
 title: 'Exit polls: Netanyahu just short of majority in Israel vote'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T22:17:42.000Z

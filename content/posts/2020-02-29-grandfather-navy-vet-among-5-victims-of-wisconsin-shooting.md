@@ -1,6 +1,6 @@
 ---
 title: 'Grandfather, Navy vet among 5 victims of Wisconsin shooting'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T03:22:33.000Z

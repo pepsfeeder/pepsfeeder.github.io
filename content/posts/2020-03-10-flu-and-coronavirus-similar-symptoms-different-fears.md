@@ -1,6 +1,6 @@
 ---
 title: 'Flu and coronavirus: Similar symptoms, different fears'
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-10T22:22:27.000Z

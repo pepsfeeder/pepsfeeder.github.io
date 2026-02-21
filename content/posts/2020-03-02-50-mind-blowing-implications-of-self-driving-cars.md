@@ -1,6 +1,6 @@
 ---
 title: 50 Mind-Blowing Implications of self-driving Cars
-categories: ["genz"]
+categories: ["digital"]
 author: Shira Tarlo
 type: post
 categories: genz

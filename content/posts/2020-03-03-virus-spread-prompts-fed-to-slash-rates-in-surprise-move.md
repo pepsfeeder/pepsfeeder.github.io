@@ -1,6 +1,6 @@
 ---
 title: Virus spread prompts Fed to slash rates in surprise move
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-03T18:26:28.000Z

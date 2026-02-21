@@ -1,6 +1,6 @@
 ---
 title: Facebook is suing OneAudience for improperly harvesting user data
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-27T23:19:51.000Z

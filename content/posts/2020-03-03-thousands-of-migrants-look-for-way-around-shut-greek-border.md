@@ -1,6 +1,6 @@
 ---
 title: Thousands of migrants look for way around shut Greek border
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T10:18:14.000Z

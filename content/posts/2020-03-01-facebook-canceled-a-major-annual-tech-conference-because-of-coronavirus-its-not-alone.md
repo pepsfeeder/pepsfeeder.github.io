@@ -1,6 +1,6 @@
 ---
 title: Facebook canceled a major annual tech conference because of coronavirus. It's not alone.
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-01T07:25:43.000Z

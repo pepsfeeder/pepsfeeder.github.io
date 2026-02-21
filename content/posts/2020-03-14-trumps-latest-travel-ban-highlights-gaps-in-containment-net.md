@@ -1,6 +1,6 @@
 ---
 title: Trump's latest travel ban highlights gaps in containment net
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-14T15:20:26.000Z

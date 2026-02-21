@@ -1,6 +1,6 @@
 ---
 title: Dow sinks 2.9% after rate cut fails to stem market's dread
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-04T01:18:14.000Z

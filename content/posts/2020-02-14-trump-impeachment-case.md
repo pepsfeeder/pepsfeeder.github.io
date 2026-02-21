@@ -1,6 +1,6 @@
 ---
 title: 'Trump impeachment case: a six-year "drama" with a farce behind it'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-14T15:26:08.000Z

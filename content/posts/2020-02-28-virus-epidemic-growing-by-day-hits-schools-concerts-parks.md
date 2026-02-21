@@ -1,6 +1,6 @@
 ---
 title: 'Virus epidemic growing by day hits schools, concerts, parks'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T10:27:50.000Z

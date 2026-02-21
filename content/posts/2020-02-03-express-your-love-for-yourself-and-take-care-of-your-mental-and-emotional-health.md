@@ -1,6 +1,6 @@
 ---
 title: Express your love for yourself and take care of your mental and emotional health
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 categories: lifestyle

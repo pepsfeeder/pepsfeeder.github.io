@@ -1,6 +1,6 @@
 ---
 title: Afghans view US-Taliban deal with well-earned skepticism
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T07:19:46.000Z

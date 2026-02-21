@@ -1,6 +1,6 @@
 ---
 title: 'Ernesto Cardenal, Nicaraguan poet and priest, dies at 95'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T01:22:02.000Z

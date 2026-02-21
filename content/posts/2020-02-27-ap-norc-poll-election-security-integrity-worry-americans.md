@@ -1,6 +1,6 @@
 ---
 title: 'AP-NORC poll: Election security, integrity worry Americans'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T14:23:00.000Z

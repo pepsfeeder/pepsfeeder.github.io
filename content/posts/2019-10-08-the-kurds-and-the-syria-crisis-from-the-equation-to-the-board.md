@@ -1,6 +1,6 @@
 ---
 title: The Kurds and the Syria Crisis From the Equation to the Board
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-10-08T19:53:19.000Z

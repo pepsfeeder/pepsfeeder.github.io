@@ -1,6 +1,6 @@
 ---
 title: The Catholic Church and Pope Francis plan to fight back against AI
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T13:26:36.000Z

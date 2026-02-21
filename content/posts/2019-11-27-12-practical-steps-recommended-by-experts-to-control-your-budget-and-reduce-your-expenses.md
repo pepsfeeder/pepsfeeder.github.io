@@ -1,6 +1,6 @@
 ---
 title: 12 practical steps recommended by experts to control your budget and reduce your expenses
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2019-11-27T17:08:48.000Z

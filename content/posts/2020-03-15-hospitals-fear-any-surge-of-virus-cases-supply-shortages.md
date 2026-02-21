@@ -1,6 +1,6 @@
 ---
 title: 'Hospitals fear any surge of virus cases, supply shortages'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-15T22:23:54.000Z

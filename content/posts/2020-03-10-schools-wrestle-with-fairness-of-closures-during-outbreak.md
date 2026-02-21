@@ -1,6 +1,6 @@
 ---
 title: Schools wrestle with fairness of closures during outbreak
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-10T00:19:06.000Z

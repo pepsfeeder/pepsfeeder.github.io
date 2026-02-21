@@ -1,6 +1,6 @@
 ---
 title: 'Now this: Tornado clobbers African American North Nashville'
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-07T14:27:27.000Z

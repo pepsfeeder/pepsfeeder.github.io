@@ -1,6 +1,6 @@
 ---
 title: Iran orders troops to fight coronavirus outbreak as 77 dead
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T16:19:58.000Z

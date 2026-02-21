@@ -1,6 +1,6 @@
 ---
 title: Walmart will soon test an Amazon Prime competitor called Walmart+
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T23:19:50.000Z

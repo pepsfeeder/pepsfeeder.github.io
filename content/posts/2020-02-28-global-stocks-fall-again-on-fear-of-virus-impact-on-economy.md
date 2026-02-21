@@ -1,6 +1,6 @@
 ---
 title: Global stocks fall again on fear of virus impact on economy
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T14:37:37.000Z

@@ -1,6 +1,6 @@
 ---
 title: Learn to gain charisma and Become more attractive
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 categories: lifestyle

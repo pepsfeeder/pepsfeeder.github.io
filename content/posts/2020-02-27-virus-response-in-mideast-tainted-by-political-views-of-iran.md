@@ -1,6 +1,6 @@
 ---
 title: Virus response in Mideast tainted by political views of Iran
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T16:20:14.000Z

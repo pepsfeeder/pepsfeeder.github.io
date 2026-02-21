@@ -1,6 +1,6 @@
 ---
 title: Trump faces credibility test as he performs down virus threat
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-26T23:24:12.000Z

@@ -1,6 +1,6 @@
 ---
 title: 'WISE Conference in Doha: Artificial Intelligence Will Change the Future of Education in the World'
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 date: 2019-11-21T10:20:17.000Z

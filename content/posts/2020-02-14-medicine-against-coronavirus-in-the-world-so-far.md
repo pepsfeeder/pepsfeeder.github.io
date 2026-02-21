@@ -1,6 +1,6 @@
 ---
 title: Why is there no specific medicine against Coronavirus in the world so far?
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-14T14:17:20.000Z

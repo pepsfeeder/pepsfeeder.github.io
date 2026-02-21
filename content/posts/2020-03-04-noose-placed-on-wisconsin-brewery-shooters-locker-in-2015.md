@@ -1,6 +1,6 @@
 ---
 title: Noose placed on Wisconsin brewery shooter's locker in 2015
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-04T21:19:22.000Z

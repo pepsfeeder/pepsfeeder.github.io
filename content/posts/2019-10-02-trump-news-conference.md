@@ -1,6 +1,6 @@
 ---
 title: Trump news conference with president of Finland
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-10-02T18:47:54.000Z

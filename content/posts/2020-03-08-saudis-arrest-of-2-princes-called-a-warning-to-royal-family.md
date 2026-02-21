@@ -1,6 +1,6 @@
 ---
 title: Saudis' arrest of 2 princes called a warning to royal family
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-08T04:17:40.000Z

@@ -1,6 +1,6 @@
 ---
 title: 'After trying year, Dayton rallies around college hoops team'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T11:19:28.000Z

@@ -1,6 +1,6 @@
 ---
 title: Officials seek to calm public as new US virus cases reported
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T21:27:06.000Z

@@ -1,6 +1,6 @@
 ---
 title: Coronavirus means The Hunt and Trolls get early streaming rental options
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-17T00:16:41.000Z

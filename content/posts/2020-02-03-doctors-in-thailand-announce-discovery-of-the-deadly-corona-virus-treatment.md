@@ -1,5 +1,5 @@
 ---
-title: Doctors in Thailand announce discovery of the deadly corona virus treatment
+title: Infectious Disease Breakthroughs and Media Hype
 categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
@@ -9,6 +9,8 @@ url: /doctors-in-thailand-announce-discovery-of-the-deadly-corona-virus-treatmen
 image: /wp-content/uploads/2020/02/coronavirus.jpg
 tags: [CNN, Corona, Thailand, treatment of antivirals, Wuhan]
 ---
+
+#### Doctors in Thailand announce discovery of the deadly corona virus treatment
 
 Doctors in Thailand said they had successfully treated one of the patients with the Coronavir virus with a combination of antiviral drugs, according to a briefing yesterday from the Ministry of Health reported by CNN.
 
@@ -31,4 +33,22 @@ At least 171 other injuries have been reported in more than twenty other countri
 
 The World Health Organization declared this outbreak a global emergency but downplayed the importance of restrictions on trade and travel.
 
-Source: agencies, websites
+#### Learn about fibromyalgia symptoms and methods of treatment
+
+Fibromyalgia, or fibromyalgia, is a chronic condition caused by an imbalance in the treatment of pain in the body, according to the Federal Health Awareness Center.
+
+He explained that this situation is characterized by the spread of pain in various places such as muscles, joints, and tendons, in addition to abdominal and intestinal pain, breathing difficulties, urinary incontinence and constant fatigue.
+
+Fibromyalgia also affects the psyche, and physical disorders are often associated with psychological ones, such as sleep disorders, poor concentration, poor mood, and a sense of fear and anxiety.
+
+The cause of fibromyalgia is not yet known, but doctors believe it is due to genetic factors or long-lasting psychological stress.
+
+the cure
+Treatment is based on holistic concepts at the physical and psychological levels in order to relieve chronic pain.
+
+Some doctors often prescribe low-dose depression to patients, but this does not mean that fibromyalgia is a type of depression, but these drugs have a pain-relieving effect.
+
+Relaxation techniques can also be used to help relieve pain such as meditation and progressive muscular relaxation. Exercise can also help patients with severe pain, fatigue, and exhaustion.
+
+In addition, healthy nutrition can help relieve trouble, so patients should eat more fresh vegetables and fruits and reduce meat, and some patients may benefit from a vegetarian diet.
+

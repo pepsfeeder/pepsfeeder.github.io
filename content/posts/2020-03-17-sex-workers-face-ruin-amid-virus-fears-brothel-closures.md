@@ -1,6 +1,6 @@
 ---
 title: 'Sex workers face ruin amid virus fears, brothel closures'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-17T11:22:16.000Z

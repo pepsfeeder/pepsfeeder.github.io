@@ -1,6 +1,6 @@
 ---
 title: List of 15 countries witnessing angry protests
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-11-18T06:33:38.000Z

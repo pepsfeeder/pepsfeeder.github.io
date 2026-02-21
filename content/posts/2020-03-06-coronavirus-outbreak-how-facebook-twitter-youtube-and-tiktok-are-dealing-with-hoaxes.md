@@ -1,6 +1,6 @@
 ---
 title: 'Coronavirus outbreak: How Facebook, Twitter, YouTube, and TikTok are dealing with hoaxes'
-categories: ["news"]
+categories: ["strategy"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T14:27:26.000Z

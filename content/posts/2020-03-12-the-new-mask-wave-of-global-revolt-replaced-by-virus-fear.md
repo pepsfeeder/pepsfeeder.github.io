@@ -1,6 +1,6 @@
 ---
 title: 'The new mask: Wave of global revolt replaced by virus fear'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-12T08:17:02.000Z

@@ -1,6 +1,6 @@
 ---
 title: TOP-16 of the most high-tech types of firearms
-categories: ["entertainment"]
+categories: ["digital"]
 author: Nicole Karlis
 type: post
 categories: entertainment

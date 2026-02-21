@@ -1,6 +1,6 @@
 ---
 title: Suburbanites are voting and that's good news for Joe Biden
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-07T19:18:59.000Z

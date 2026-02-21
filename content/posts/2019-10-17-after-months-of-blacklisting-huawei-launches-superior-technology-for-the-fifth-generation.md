@@ -1,6 +1,6 @@
 ---
 title: After months of blacklisting .. Huawei launches superior technology for the fifth generation
-categories: ["genz"]
+categories: ["digital"]
 author: Shira Tarlo
 type: post
 date: 2019-10-17T12:24:54.000Z

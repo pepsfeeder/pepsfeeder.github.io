@@ -1,6 +1,6 @@
 ---
 title: How Clearview AI is using facial recognition
-categories: ["news"]
+categories: ["strategy"]
 author: Chris Manoel
 type: post
 date: 2020-03-11T05:21:35.000Z

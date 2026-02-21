@@ -1,6 +1,6 @@
 ---
 title: Tesla's Autopilot keeps causing its cars to crash
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T18:22:36.000Z

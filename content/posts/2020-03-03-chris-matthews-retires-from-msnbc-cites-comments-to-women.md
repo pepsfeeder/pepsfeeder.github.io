@@ -1,6 +1,6 @@
 ---
 title: 'Chris Matthews retires from MSNBC, cites comments to women'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T02:19:20.000Z

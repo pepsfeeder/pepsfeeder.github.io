@@ -1,6 +1,6 @@
 ---
 title: Officials set to receive thousands from ship hit by virus
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-09T06:24:43.000Z

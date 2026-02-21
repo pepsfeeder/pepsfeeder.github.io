@@ -1,6 +1,6 @@
 ---
 title: Thousands on virus-hit cruise ship await disembarkation
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-10T08:25:41.000Z

@@ -1,6 +1,6 @@
 ---
 title: 9 signs tell you that your marriage will not exceed the obstacle of the seventh year
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 categories: lifestyle

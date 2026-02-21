@@ -1,6 +1,6 @@
 ---
 title: Scientists reveal three-dimensional molecular map of Coronavirus
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-20T21:37:17.000Z

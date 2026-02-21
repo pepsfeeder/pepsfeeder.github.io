@@ -1,6 +1,6 @@
 ---
 title: 'What''s Happening: Spain to go on lockdown to combat virus'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-14T20:19:00.000Z

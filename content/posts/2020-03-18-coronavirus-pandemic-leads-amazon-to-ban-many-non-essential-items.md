@@ -1,6 +1,6 @@
 ---
 title: Coronavirus pandemic leads Amazon to ban many non-essential items
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-18T09:18:45.000Z

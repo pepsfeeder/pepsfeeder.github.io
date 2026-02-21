@@ -1,6 +1,6 @@
 ---
 title: Statement of Commissioner Brian D. Quintenz
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-20T22:11:16.000Z

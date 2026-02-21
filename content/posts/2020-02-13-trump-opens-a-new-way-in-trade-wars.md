@@ -1,6 +1,6 @@
 ---
 title: Trump opens a new way in trade wars
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-13T12:57:31.000Z

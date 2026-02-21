@@ -1,6 +1,6 @@
 ---
 title: 'America Counts: Stories Behind the Numbers'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-19T18:47:04.000Z

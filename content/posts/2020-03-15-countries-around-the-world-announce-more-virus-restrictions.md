@@ -1,6 +1,6 @@
 ---
 title: Countries around the world announce more virus restrictions
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-15T09:24:19.000Z

@@ -1,6 +1,6 @@
 ---
 title: 'AP Interview: Al-Qaida, IS affiliates group up in West Africa'
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-02-27T11:17:32.000Z

@@ -1,6 +1,6 @@
 ---
 title: Beijing's weapons in battle and Why America waged a trade war on China
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2019-10-26T20:41:57.000Z

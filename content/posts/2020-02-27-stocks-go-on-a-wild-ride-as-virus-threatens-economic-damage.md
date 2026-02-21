@@ -1,6 +1,6 @@
 ---
 title: Stocks go on a wild ride as virus threatens economic damage
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T20:22:29.000Z

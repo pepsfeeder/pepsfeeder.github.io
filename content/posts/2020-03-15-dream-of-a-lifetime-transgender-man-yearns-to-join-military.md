@@ -1,6 +1,6 @@
 ---
 title: 'Dream of a lifetime: Transgender man yearns to join military'
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-15T14:17:22.000Z

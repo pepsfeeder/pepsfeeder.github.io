@@ -1,6 +1,6 @@
 ---
 title: 'AP FACT CHECK: Trump''s viral spin on virus; Dem oversteps'
-categories: ["news"]
+categories: ["strategy"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T15:21:16.000Z

@@ -1,6 +1,6 @@
 ---
 title: Trump In India And What He's Doing That The MSM Isn't Telling You
-categories: ["news"]
+categories: ["strategy"]
 author: Chris Manoel
 type: post
 date: 2020-02-24T14:37:39.000Z

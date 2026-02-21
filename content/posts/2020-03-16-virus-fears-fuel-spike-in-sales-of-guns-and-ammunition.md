@@ -1,6 +1,6 @@
 ---
 title: Virus fears fuel spike in sales of guns and ammunition
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-16T21:22:17.000Z

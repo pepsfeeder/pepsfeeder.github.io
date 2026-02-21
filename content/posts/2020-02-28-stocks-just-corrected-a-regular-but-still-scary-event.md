@@ -1,6 +1,6 @@
 ---
 title: 'Stocks just ‘corrected,'' a regular but still scary event'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T05:32:01.000Z

@@ -1,6 +1,6 @@
 ---
 title: 'Joe Coulombe, founder of popular Trader Joe''s markets, dies'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T09:24:20.000Z

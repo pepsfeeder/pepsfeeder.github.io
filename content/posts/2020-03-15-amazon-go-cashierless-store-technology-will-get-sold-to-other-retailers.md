@@ -1,6 +1,6 @@
 ---
 title: Amazon Go cashierless store technology will get sold to other retailers
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-15T08:27:06.000Z

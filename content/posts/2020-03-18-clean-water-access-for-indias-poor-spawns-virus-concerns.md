@@ -1,6 +1,6 @@
 ---
 title: Clean water access for India's poor spawns virus concerns
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-18T13:23:08.000Z

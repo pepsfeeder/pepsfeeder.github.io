@@ -1,6 +1,6 @@
 ---
 title: Biden wins 8 Super Tuesday states; Sanders takes California
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-04T07:20:57.000Z

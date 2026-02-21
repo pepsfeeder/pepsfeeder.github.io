@@ -1,6 +1,6 @@
 ---
 title: Spreading birthday card love in the time of coronavirus
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-18T00:18:01.000Z

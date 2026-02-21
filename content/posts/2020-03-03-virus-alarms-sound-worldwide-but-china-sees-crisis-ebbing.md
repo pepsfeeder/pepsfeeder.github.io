@@ -1,6 +1,6 @@
 ---
 title: 'Virus alarms sound worldwide, but China sees crisis ebbing'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T07:19:09.000Z

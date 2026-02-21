@@ -1,6 +1,6 @@
 ---
 title: North Korean swagger may conceal brewing virus disaster
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-03T13:31:01.000Z

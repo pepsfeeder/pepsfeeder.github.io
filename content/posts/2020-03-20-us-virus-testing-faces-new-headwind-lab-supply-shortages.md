@@ -1,6 +1,6 @@
 ---
 title: 'US virus testing faces new headwind: Lab supply shortages'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-20T20:17:15.000Z

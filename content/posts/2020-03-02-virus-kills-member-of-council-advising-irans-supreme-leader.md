@@ -1,6 +1,6 @@
 ---
 title: Virus kills member of council advising Iran's supreme leader
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T12:23:44.000Z

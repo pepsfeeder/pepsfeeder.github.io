@@ -1,6 +1,6 @@
 ---
 title: House passes aid bill after Trump declares virus emergency
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-14T07:17:04.000Z

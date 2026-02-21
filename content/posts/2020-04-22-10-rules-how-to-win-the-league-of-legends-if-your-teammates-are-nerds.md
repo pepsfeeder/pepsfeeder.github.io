@@ -1,6 +1,6 @@
 ---
 title: '10 rules: how to win the League of Legends if your teammates are nerds'
-categories: ["entertainment"]
+categories: ["digital"]
 author: Nicole Karlis
 type: post
 date: 2020-04-22T12:55:30.000Z

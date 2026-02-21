@@ -1,6 +1,6 @@
 ---
 title: Virus effects take hold as Trump calls criticisms a ‘hoax'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-29T08:20:39.000Z

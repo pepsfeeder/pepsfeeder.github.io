@@ -1,6 +1,6 @@
 ---
 title: 'Locked out: Europeans grapple with new US travel ban'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-12T12:27:36.000Z

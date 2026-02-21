@@ -1,6 +1,6 @@
 ---
 title: 'AP-NORC poll: How Americans describe 2020 Democrats, Trump'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T21:39:04.000Z

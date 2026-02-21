@@ -1,6 +1,6 @@
 ---
 title: 'Stocks sink, bond yields take another breathtaking drop'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T17:29:46.000Z

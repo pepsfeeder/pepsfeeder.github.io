@@ -1,6 +1,6 @@
 ---
 title: 'Migrants, police clash again on Greek-Turkish border'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-06T09:17:32.000Z

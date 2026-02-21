@@ -1,6 +1,6 @@
 ---
 title: A world full of enslavers and criminals .. Unknown crimes in the high oceans
-categories: ["lifestyle"]
+categories: ["digital"]
 author: Rose Fooks
 type: post
 categories: lifestyle

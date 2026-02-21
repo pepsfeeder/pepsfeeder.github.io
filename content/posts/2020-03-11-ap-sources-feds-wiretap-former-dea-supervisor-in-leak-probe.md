@@ -1,6 +1,6 @@
 ---
 title: 'AP sources: Feds wiretap former DEA supervisor in leak probe'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-11T17:26:11.000Z

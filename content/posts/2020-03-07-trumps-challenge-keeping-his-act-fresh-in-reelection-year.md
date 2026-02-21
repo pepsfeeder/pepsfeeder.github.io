@@ -1,6 +1,6 @@
 ---
 title: 'Trump''s challenge: keeping his act fresh in reelection year'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-07T06:18:49.000Z

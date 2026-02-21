@@ -1,6 +1,6 @@
 ---
 title: These are the most important economic challenges for the expected Algerian president
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2019-12-10T19:42:50.000Z

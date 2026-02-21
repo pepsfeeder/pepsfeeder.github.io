@@ -1,6 +1,6 @@
 ---
 title: 'Analysis: With unease, Americans lurch into coronavirus era'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-13T01:20:21.000Z

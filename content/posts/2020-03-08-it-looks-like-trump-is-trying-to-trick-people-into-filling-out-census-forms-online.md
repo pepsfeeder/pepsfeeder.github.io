@@ -1,6 +1,6 @@
 ---
 title: It looks like Trump is trying to trick people into filling out "census" forms online
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-08T12:26:20.000Z

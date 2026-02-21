@@ -1,6 +1,6 @@
 ---
 title: The White House Refuses to Cooperate with Investigations The move would put the United States in a constitutional crisis
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-10-10T11:21:20.000Z

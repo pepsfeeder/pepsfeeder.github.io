@@ -1,6 +1,6 @@
 ---
 title: 'Tokyo falls back, other Asian markets track Wall St gains'
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-03T08:24:18.000Z

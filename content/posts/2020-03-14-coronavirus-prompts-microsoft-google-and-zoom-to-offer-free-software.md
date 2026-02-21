@@ -1,6 +1,6 @@
 ---
 title: 'Coronavirus prompts Microsoft, Google, and Zoom to offer free software'
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-14T20:18:57.000Z

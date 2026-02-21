@@ -1,6 +1,6 @@
 ---
 title: Corporate debt loads a rising risk as virus hits economy
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-11T22:19:55.000Z

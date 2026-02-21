@@ -1,6 +1,6 @@
 ---
 title: US labs await virus-testing kits promised by administration
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-06T00:17:33.000Z

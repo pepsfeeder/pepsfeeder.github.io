@@ -1,6 +1,6 @@
 ---
 title: China's factories try to shield workers as output revives
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-05T06:19:53.000Z

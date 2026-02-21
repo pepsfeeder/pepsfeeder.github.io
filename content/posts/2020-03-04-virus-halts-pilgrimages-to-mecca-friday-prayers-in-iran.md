@@ -1,6 +1,6 @@
 ---
 title: 'Virus halts pilgrimages to Mecca, Friday prayers in Iran'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-04T17:20:06.000Z

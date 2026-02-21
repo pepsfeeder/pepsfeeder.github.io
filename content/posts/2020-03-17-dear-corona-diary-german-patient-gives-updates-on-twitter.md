@@ -1,6 +1,6 @@
 ---
 title: 'Dear Corona Diary: German patient gives updates on Twitter'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-17T20:17:04.000Z

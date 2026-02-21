@@ -1,6 +1,6 @@
 ---
 title: Here are expert tips to invest in the stock exchange
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2019-11-18T07:11:37.000Z

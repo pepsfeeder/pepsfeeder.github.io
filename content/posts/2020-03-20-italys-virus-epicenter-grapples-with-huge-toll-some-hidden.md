@@ -1,6 +1,6 @@
 ---
 title: 'Italy''s virus epicenter grapples with huge toll, some hidden'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-20T11:20:41.000Z

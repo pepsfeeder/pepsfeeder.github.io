@@ -1,6 +1,6 @@
 ---
 title: 'Wash. state sees 1st virus death in US, declares emergency'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T03:20:11.000Z

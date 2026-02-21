@@ -1,6 +1,6 @@
 ---
 title: Trump urges tranquil even as US reports worrisome recent virus case
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-27T06:29:42.000Z

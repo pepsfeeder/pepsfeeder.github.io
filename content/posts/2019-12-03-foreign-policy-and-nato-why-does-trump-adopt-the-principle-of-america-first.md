@@ -1,6 +1,6 @@
 ---
 title: Foreign Policy and NATO Why does Trump adopt the principle of "America first"?
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2019-12-03T16:20:00.000Z

@@ -1,6 +1,6 @@
 ---
 title: Watchdog says Israel's West Bank settlements surged in 2019
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2020-03-18T09:18:48.000Z

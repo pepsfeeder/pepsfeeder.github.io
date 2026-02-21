@@ -1,6 +1,6 @@
 ---
 title: 'Coronavirus is the first test for AI, robots, and drones that can prevent pandemics'
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-02-28T03:25:19.000Z

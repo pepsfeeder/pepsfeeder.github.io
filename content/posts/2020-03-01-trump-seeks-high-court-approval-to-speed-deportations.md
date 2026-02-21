@@ -1,6 +1,6 @@
 ---
 title: Trump seeks high court approval to speed deportations
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-01T00:30:32.000Z

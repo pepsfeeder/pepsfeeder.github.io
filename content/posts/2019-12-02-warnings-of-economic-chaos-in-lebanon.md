@@ -1,6 +1,6 @@
 ---
 title: Warnings of economic chaos in Lebanon
-categories: ["news"]
+categories: ["insight"]
 author: Matthew Rozsa
 type: post
 date: 2019-12-02T13:54:47.000Z

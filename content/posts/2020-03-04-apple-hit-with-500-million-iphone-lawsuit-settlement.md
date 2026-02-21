@@ -1,6 +1,6 @@
 ---
 title: Apple hit with $500 million iPhone lawsuit settlement
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-04T04:18:17.000Z

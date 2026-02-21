@@ -1,6 +1,6 @@
 ---
 title: Child dies as migrants rush to cross Greek-Turkish border
-categories: ["news"]
+categories: ["insight"]
 author: Chris Manoel
 type: post
 date: 2020-03-02T16:50:28.000Z

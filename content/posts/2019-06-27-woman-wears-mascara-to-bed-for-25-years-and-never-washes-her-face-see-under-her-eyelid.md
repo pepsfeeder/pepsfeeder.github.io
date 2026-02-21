@@ -1,5 +1,5 @@
 ---
-title: Woman Wears Mascara To Bed For 25 Years And Never Washes Her Face -- See Under Her Eyelid
+title: Woman Wears Mascara To Bed For 25 Years And Never Washes Her Face - See Under Her Eyelid
 categories: ["wellness"]
 author: Ashlie D. Stevens
 type: post
