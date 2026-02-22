@@ -41,4 +41,4 @@ Because you deserve more than derivative content. Our editorial team, led by sen
 Join us as we explore the adaptive future. Navigate the complexity. Find your signal.
 
 ---
-*Explore our [Wellness](#) archives, dive into the latest in [Technology](#), or understand the [Global Shifts](#) shaping our world today.*
+*Explore our [Wellness](/posts/2026-02-21-wellness-pillar.md) archives, dive into the latest in [Technology](/posts/2026-02-21-tech-pillar.md), or understand the [Global Shifts](/posts/2026-02-21-global-pillar.md) shaping our world today.*
