@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Coronavirus phishing attacks and email scams are on the rise
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /coronavirus-phishing-attacks-and-email-scams-are-on-the-rise/
 image: /wp-content/uploads/2020/03/3611/coronavirus-phishing-attacks-and-email-scams-are-on-the-rise.jpg
 tags: [Coronavirus, phishing]
 ---
+draft: true
 
 If you didn't have enough to worry about with the new coronavirus, here's one more thing: Scammers are using the outbreak to steal your information through phishing attempts or to lure you into downloading a different kind of virus.
 

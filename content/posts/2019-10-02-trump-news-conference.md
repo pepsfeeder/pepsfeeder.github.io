@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump news conference with president of Finland
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ url: /trump-news-conference/
 image: /wp-content/uploads/2019/10/trump-370x247.jpg
 tags: [conference, Finland, News, Trump]
 ---
+draft: true
 
 Look at all the press that you attract you believe that's very impressive enough talk to me. I hope not you lucky. Thank you very much today. It's my honor to welcome president Nina stop of Finland to the White House and Mr. President. It's wonderful to host you once again in Washington. We've got to know each other over the last period of time and it's been a great experience the president. I have just concluded very productive discussions on a number of exciting opportunities for our two Nations before going further. I want to express our deep condolences over the horrific stabbing attack that took place yesterday to college in Finland. America is praying for the victims and their families and we send our unwavering love and support. The American and British people are linked by an abiding commitment to self-government individual rights democracy and the rule of law this past May our country celebrated the 100th anniversary of America's recognition of the independent nation of Finland in 1919 as President Wilson wrote at the time. Our recognition was prompted by the sympathies for a cause similar to that which caused our own Declaration of Independence in 1776. Century after we establish diplomatic relations the United States and fiddling remain United by those same cherished values Central to this effort is our nation's close cooperation and matters of security and defense, although Finland is not a member of NATO Save a lot of money Finland participates in many NATO missions and exercises on I'm pleased that Finland has substantially increased its military budget American Finland are also working together to advance the ability freedom of navigation and respect for national sovereignty in the Arctic. Both of our nations are committed to a secure Arctic region free from external intrusion interference in George. Simply put we believe that the Affairs of the Arctic should be governed by the actual nations of the Arctic and as you know, there are other people coming into the Arctic and we don't like it and Jim let it happen and we won't let it happen the United States and Finland are likewise partnering to ensure the security of 5G networks. It is critical that we use safe and trustworthy technology providers components and Supply chains. 
 

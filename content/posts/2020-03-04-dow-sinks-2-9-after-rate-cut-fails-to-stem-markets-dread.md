@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Dow sinks 2.9% after rate cut fails to stem market's dread
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /dow-sinks-2-9-after-rate-cut-fails-to-stem-markets-dread/
 image: /wp-content/uploads/2020/03/dow-sink.jpg
 tags: [fails, sinks]
 ---
+draft: true
 
 NEW YORK (AP) --- Peril and uncertainty proceed to manipulate Wall Road, and stocks fell sharply Tuesday after an emergency interest-rate cleave by the Federal Reserve failed to reassure markets wracked by worries that a quick-spreading virus will slam corporate earnings and the economic system.
 

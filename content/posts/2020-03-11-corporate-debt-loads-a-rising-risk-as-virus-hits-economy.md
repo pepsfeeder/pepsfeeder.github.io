@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Corporate debt loads a rising risk as virus hits economy
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /corporate-debt-loads-a-rising-risk-as-virus-hits-economy/
 image: /wp-content/uploads/2020/03/3633/corporate-debt-loads-a-rising-risk-as-virus-hits-economy.jpg
 tags: [Corporate, loads]
 ---
+draft: true
 
 WASHINGTON (AP) --- A gyrating stock market is seizing headlines as the coronavirus threatens corporate profits and economic growth. Yet it's in the normally temperate bond market, where companies go to borrow money, where the gravest dangers may lurk.
 

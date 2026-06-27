@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'A cruel paradox: Beating virus means causing US recession'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /a-cruel-paradox-beating-virus-means-causing-us-recession/
 image: /wp-content/uploads/2020/03/3722/a-cruel-paradox-beating-virus-means-causing-us-recession.jpg
 tags: [cruel, paradox]
 ---
+draft: true
 
 WASHINGTON (AP) --- No one knows how long it will last or how much it will hurt. But the U.S. economy is either sliding into a recession for the first time since 2009 or is already in one --- a sudden victim of the coronavirus outbreak.
 

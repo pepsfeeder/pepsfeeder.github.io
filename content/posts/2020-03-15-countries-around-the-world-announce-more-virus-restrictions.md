@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Countries around the world announce more virus restrictions
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /countries-around-the-world-announce-more-virus-restrictions/
 image: /wp-content/uploads/2020/03/3681/countries-around-the-world-announce-more-virus-restrictions-scaled.jpg
 tags: [Countries, world]
 ---
+draft: true
 
 BARCELONA, Spain (AP) --- Authorities around the world turned to increasingly drastic measures to try to slow the spread of the new coronavirus Sunday, with lockdowns, curfews and travel restrictions spreading.
 

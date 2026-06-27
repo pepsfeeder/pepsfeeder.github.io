@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Warnings of economic chaos in Lebanon
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /warnings-of-economic-chaos-in-lebanon/
 image: /wp-content/uploads/2019/12/nicolas-nahas.jpg
 tags: [dollar, economic chaos, financial crisis, Lebanon, public debt]
 ---
+draft: true
 
 Lebanon is experiencing an unprecedented financial and economic crisis. The popular movement, which has not ceased its demand for 45 days for a national rescue government that works to find quick solutions to the financial and economic crises, is confronted by the ruling political class, as it calls it, which is unable to produce a new government that draws up rapid plans to curb From the deteriorating economic situation.
 

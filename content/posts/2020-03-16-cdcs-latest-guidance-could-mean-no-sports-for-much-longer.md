@@ -1,4 +1,5 @@
 ---
+draft: true
 title: CDC's latest guidance could mean no sports for much longer
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /cdcs-latest-guidance-could-mean-no-sports-for-much-longer/
 image: /wp-content/uploads/2020/03/3689/cdcs-latest-guidance-could-mean-no-sports-for-much-longer.jpg
 tags: [CDC's, Latest]
 ---
+draft: true
 
 The already-delayed professional sports seasons in North America could be on hiatus for significantly longer than first planned after federal officials said Sunday that they recommend all in-person events involving 50 people or more be called off for the next eight weeks.
 

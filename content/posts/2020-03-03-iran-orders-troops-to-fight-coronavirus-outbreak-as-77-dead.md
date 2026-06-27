@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Iran orders troops to fight coronavirus outbreak as 77 dead
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /iran-orders-troops-to-fight-coronavirus-outbreak-as-77-dead/
 image: /wp-content/uploads/2020/03/iran-coronavirus.jpg
 tags: [orders, troops]
 ---
+draft: true
 
 TEHRAN, Iran (AP) --- Iran's supreme chief build the Islamic Republic's protection force on alert Tuesday to encourage correctly being officers in combating the outbreak of the fresh coronavirus --- the deadliest inaugurate air of China --- that authorities deliver has killed 77 folks.
 

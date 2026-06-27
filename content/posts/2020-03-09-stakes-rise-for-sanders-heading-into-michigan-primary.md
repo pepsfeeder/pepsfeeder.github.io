@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Stakes rise for Sanders heading into Michigan primary
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /stakes-rise-for-sanders-heading-into-michigan-primary/
 image: /wp-content/uploads/2020/03/3607/stakes-rise-for-sanders-heading-into-michigan-primary.jpeg
 tags: [Sanders, Stakes]
 ---
+draft: true
 
 ANN ARBOR, Mich. (AP) --- Bernie Sanders proved he was a serious presidential candidate in 2016 with an upset victory in Michigan powered by his opposition to free trade and appeal among working-class voters. Four years later, the same state could either revive the Vermont senator's campaign or relegate him to the role of protest candidate.
 

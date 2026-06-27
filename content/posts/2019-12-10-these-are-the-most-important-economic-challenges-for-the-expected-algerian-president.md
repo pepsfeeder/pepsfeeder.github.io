@@ -1,4 +1,5 @@
 ---
+draft: true
 title: These are the most important economic challenges for the expected Algerian president
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /these-are-the-most-important-economic-challenges-for-the-expected-algerian
 image: /wp-content/uploads/2019/12/algeria-protest-expected-president.jpg
 tags: [agenda, Algeria, overstretched, president]
 ---
+draft: true
 
 The presidential elections will be held in Algeria next Thursday, December 12th, which does not receive the approval of a good part of the popular movement that started since the beginning of 2019, as the movement demands the exclusion of all officials during the era of "Bouteflika" as well as representatives All institutions that supported the environment of political and economic corruption during the last period before any elections were held there.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: China's factories try to shield workers as output revives
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /chinas-factories-try-to-shield-workers-as-output-revives/
 image: /wp-content/uploads/2020/03/3544/chinas-factories-try-to-shield-workers-as-output-revives.jpg
 tags: [China's, factories]
 ---
+draft: true
 
 BEIJING (AP) --- To keep his 40 employees indoors and away from China's virus outbreak, the manager of an electronics factory in Dongguan, near Hong Kong, says he hired a cook and arranged dormitories for them.
 

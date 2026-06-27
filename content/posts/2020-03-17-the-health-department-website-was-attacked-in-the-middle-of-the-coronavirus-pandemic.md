@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The Health Department website was attacked in the middle of the coronavirus pandemic
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /the-health-department-website-was-attacked-in-the-middle-of-the-coronaviru
 image: /wp-content/uploads/2020/03/3712/the-health-department-website-was-attacked-in-the-middle-of-the-coronavirus-pandemic-scaled.jpg
 tags: [Department, health]
 ---
+draft: true
 
 The US Health and Human Services Department was the victim of a cyberattack yesterday, the agency confirmed to Recode.
 

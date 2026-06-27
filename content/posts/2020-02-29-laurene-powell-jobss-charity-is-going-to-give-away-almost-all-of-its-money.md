@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Laurene Powell Jobs's charity is going to give away almost all of its money
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /laurene-powell-jobss-charity-is-going-to-give-away-almost-all-of-its-money
 image: /wp-content/uploads/2020/02/3441/laurene-powell-jobss-charity-is-going-to-give-away-almost-all-of-its-money.jpg
 tags: [Laurene, Powell]
 ---
+draft: true
 
 Laurene Powell Jobs, one in all the richest females on the earth, shared critical details, buried in a brand new interview, about what she plans to complete alongside with her wealth.
 

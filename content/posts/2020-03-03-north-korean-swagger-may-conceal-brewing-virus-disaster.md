@@ -1,4 +1,5 @@
 ---
+draft: true
 title: North Korean swagger may conceal brewing virus disaster
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /north-korean-swagger-may-conceal-brewing-virus-disaster/
 image: /wp-content/uploads/2020/03/North-Korean-virus.jpg
 tags: [Korean, North]
 ---
+draft: true
 
 TOKYO (AP) --- On this day of infection and fright, a recent propaganda picture sums up the image North Korea needs to demonstrate the environment, as successfully as its individuals: Troopers with sunless surgical masks surround chief Kim Jong Un, ensconced in a leather-essentially based totally overcoat and sans masks as he oversees a defiant military drill.
 

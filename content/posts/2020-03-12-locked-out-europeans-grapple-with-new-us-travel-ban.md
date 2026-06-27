@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Locked out: Europeans grapple with new US travel ban'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /locked-out-europeans-grapple-with-new-us-travel-ban/
 image: /wp-content/uploads/2020/03/3643/locked-out-europeans-grapple-with-new-us-travel-ban.jpeg
 tags: [Europeans, Locked]
 ---
+draft: true
 
 PARIS (AP) --- A Las Vegas wedding with an Elvis impersonator: Canceled. A 3,500-kilometer (2,200-mile) trans-America road trip, a voyage of a lifetime that took months to prepare: On ice, too.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Statement of Commissioner Brian D. Quintenz
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /statement-of-commissioner-brian-d-quintenz/
 image: /wp-content/uploads/2020/02/Brian-Quintenz-.jpg
 tags: ['2020', Brian, D. Quintenz, Open Commission, Statement of Commissioner]
 ---
+draft: true
 
 ### **Open Meeting on Proposed Rule: Amendments to the Real-Time Public Reporting Requirements (Part 43); Proposed Rule: Amendments to the Swap Data Recordkeeping and Reporting Requirements (Part 45); and Reopening of Comment Period: Certain Swap Data Repository and Data Reporting Requirements (Part 49 Verification)**
 

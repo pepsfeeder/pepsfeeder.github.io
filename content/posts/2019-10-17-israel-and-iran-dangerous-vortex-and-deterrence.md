@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Israel and Iran: dangerous vortex and deterrence'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /israel-and-iran-dangerous-vortex-and-deterrence/
 image: /wp-content/uploads/2019/10/israel-and-iran.jpg
 tags: [deterrence, Hezbollah, Iran, Israel, Syria]
 ---
+draft: true
 
 In the face of Hezbollah, which is building a new front, and the Iranian threat, whose nature is changing from time to time, the Israeli army is building a concrete wall and advanced observation posts near the northern border, in a constant battle between parade and deterrence.
 

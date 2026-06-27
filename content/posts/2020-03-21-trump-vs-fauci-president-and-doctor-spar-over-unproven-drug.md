@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Trump vs Fauci: President and doctor spar over unproven drug'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-vs-fauci-president-and-doctor-spar-over-unproven-drug/
 image: /wp-content/uploads/2020/03/3754/trump-vs-fauci-president-and-doctor-spar-over-unproven-drug.jpeg
 tags: [Fauci, Trump]
 ---
+draft: true
 
 WASHINGTON (AP) --- In an extraordinary exchange, President Donald Trump and the government's top infectious disease expert, Dr. Anthony Fauci, publicly sparred Friday on whether a malaria drug would work to treat people with coronavirus disease.
 

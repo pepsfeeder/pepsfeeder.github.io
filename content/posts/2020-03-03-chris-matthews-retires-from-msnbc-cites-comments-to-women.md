@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Chris Matthews retires from MSNBC, cites comments to women'
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'NEW YORK (AP) --- Longtime MSNBC host Chris Matthews abruptly retired 
 url: /chris-matthews-retires-from-msnbc-cites-comments-to-women/
 tags: [Chris, Matthews]
 ---
+draft: true
 
 NEW YORK (AP) --- Longtime MSNBC host Chris Matthews retired from his "Hardball" point out on Monday, apologizing for making contaminated comments about females and following a brutal week the put he additionally took warmth from supporters of Bernie Sanders and Elizabeth Warren.
 

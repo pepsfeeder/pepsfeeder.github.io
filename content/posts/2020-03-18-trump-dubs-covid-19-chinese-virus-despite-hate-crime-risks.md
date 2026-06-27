@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump dubs COVID-19 ‘Chinese virus' despite hate crime risks
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-dubs-covid-19-chinese-virus-despite-hate-crime-risks/
 image: /wp-content/uploads/2020/03/3732/trump-dubs-covid-19-chinese-virus-despite-hate-crime-risks.jpg
 tags: [COVID-, Trump]
 ---
+draft: true
 
 WASHINGTON (AP) --- President Donald Trump said Wednesday that he doesn't think calling COVID-19 the "Chinese virus" --- or the "kung-flu," as one administration official reportedly called it --- puts Asian Americans at risk of retaliation despite growing reports they are facing virus-related discrimination.
 

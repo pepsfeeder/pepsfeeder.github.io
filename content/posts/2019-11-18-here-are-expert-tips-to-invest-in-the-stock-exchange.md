@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Here are expert tips to invest in the stock exchange
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /here-are-expert-tips-to-invest-in-the-stock-exchange/
 image: /wp-content/uploads/2019/11/stock-exchange.jpg
 tags: [Forex, Investment, Stock Market, Trading]
 ---
+draft: true
 
 With the cost of living, price inflation and the burdens of everyday life, Hamed, a salesperson for a major electronics store in Kuwait for nearly nine years, is trying to find a way to improve his limited income.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: List of 15 countries witnessing angry protests
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /list-of-15-countries-witnessing-angry-protests/
 image: /wp-content/uploads/2019/11/protest-around-the-world.jpg
 tags: [Bolivia, Iran, Iraq, Lebanon, Protest, Venezuela]
 ---
+draft: true
 
 On various continents, many countries are witnessing angry protests on Sunday, most demanding better economic conditions and jobs for youth and political reforms conducive to the renewal of the ruling elites.
 

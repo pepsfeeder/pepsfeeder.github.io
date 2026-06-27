@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Virus kills member of council advising Iran's supreme leader
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /virus-kills-member-of-council-advising-irans-supreme-leader/
 image: /wp-content/uploads/2020/03/3477/virus-kills-member-of-council-advising-irans-supreme-leader.jpg
 tags: [kills, Virus]
 ---
+draft: true
 
 TEHRAN, Iran (AP) --- A member of a council that advises Iran's supreme leader died Monday after falling unwell from the fresh coronavirus, dispute radio reported, turning into the first high first rate to succumb to the sickness that has effects on members of the Islamic Republic's management.
 

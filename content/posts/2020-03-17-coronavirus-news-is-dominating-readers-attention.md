@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Coronavirus news is dominating readers' attention
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /coronavirus-news-is-dominating-readers-attention/
 image: /wp-content/uploads/2020/03/3716/coronavirus-news-is-dominating-readers-attention.jpeg
 tags: [Coronavirus, dominating]
 ---
+draft: true
 
 If you feel like you've been glued to the news lately, you're not alone. We're collectively reading much more news during the novel coronavirus pandemic than normal, according to new publisher traffic data.
 

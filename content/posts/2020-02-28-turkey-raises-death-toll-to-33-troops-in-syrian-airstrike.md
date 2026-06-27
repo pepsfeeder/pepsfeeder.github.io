@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Turkey raises death toll to 33 troops in Syrian airstrike
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /turkey-raises-death-toll-to-33-troops-in-syrian-airstrike/
 image: /wp-content/uploads/2020/02/3386/turkey-raises-death-toll-to-33-troops-in-syrian-airstrike.jpg
 tags: [raises, Turkey]
 ---
+draft: true
 
 ANKARA, Turkey (AP) --- Turkey on Friday raised the loss of life toll from a Syrian authorities airstrike on its forces in northwestern Syria the outdated night to 33 Turkish troops, the ideal number of Turkish troopers killed in a single day since Ankara first intervened within the Syrian battle in 2016.
 

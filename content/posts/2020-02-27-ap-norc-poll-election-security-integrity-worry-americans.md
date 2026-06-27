@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'AP-NORC poll: Election security, integrity worry Americans'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /ap-norc-poll-election-security-integrity-worry-americans/
 image: /wp-content/uploads/2020/02/3357/ap-norc-poll-election-security-integrity-worry-americans.jpeg
 tags: [AP-NORC, election]
 ---
+draft: true
 
 WASHINGTON (AP) --- Individuals contain accepted concerns regarding the safety and integrity of elections, with few announcing they contain got excessive self perception that votes in the 2020 presidential election will likely be counted precisely.
 

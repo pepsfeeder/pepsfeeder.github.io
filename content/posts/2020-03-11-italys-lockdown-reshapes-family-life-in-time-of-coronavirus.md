@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Italy's lockdown reshapes family life in time of coronavirus
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /italys-lockdown-reshapes-family-life-in-time-of-coronavirus/
 image: /wp-content/uploads/2020/03/3629/italys-lockdown-reshapes-family-life-in-time-of-coronavirus.jpg
 tags: [Italy's, lockdown]
 ---
+draft: true
 
 SOAVE, Italy (AP) --- Italian Premier Giuseppe Conte's decision to lock down the entire country brought some welcome clarity to my family life after weeks of growing uncertainty about how to behave in a time of coronavirus.
 

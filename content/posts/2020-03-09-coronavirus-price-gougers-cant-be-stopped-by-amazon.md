@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Coronavirus price gougers can't be stopped by Amazon
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /coronavirus-price-gougers-cant-be-stopped-by-amazon/
 image: /wp-content/uploads/2020/03/3599/coronavirus-price-gougers-cant-be-stopped-by-amazon.jpeg
 tags: [Coronavirus, price]
 ---
+draft: true
 
 If you searched for hand sanitizer on Amazon on Thursday, one of the first listings that greeted you was a two-pack of Purell in 1-liter bottles selling for $350. The same two-pack on Walmart.com, though out of stock, showed a price of just $21.99.
 

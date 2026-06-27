@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'With painted faces, artists fight facial recognition tech'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /with-painted-faces-artists-fight-facial-recognition-tech/
 image: /wp-content/uploads/2020/03/3590/with-painted-faces-artists-fight-facial-recognition-tech.jpeg
 tags: [faces, painted]
 ---
+draft: true
 
 LONDON (AP) --- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they're covering their faces with geometric shapes.
 

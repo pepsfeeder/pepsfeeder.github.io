@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Virus toll in Iran climbs as lockdowns deepen across Mideast
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /virus-toll-in-iran-climbs-as-lockdowns-deepen-across-mideast/
 image: /wp-content/uploads/2020/03/3695/virus-toll-in-iran-climbs-as-lockdowns-deepen-across-mideast.jpg
 tags: [climbs, Virus]
 ---
+draft: true
 
 TEHRAN, Iran (AP) --- Iran reported another 129 fatalities from the new coronavirus on Monday, the largest one-day rise in deaths since it began battling the Middle East's worst outbreak, which has claimed more than 850 lives and infected a number of senior officials in the country.
 

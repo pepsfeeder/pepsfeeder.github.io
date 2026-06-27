@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Flu and coronavirus: Similar symptoms, different fears'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /flu-and-coronavirus-similar-symptoms-different-fears/
 image: /wp-content/uploads/2020/03/3621/flu-and-coronavirus-similar-symptoms-different-fears.jpg
 tags: [Coronavirus, Similar]
 ---
+draft: true
 
 Is it the flu, a cold or the new coronavirus? Patients and doctors alike are parsing signs of illness to figure out who needs what tests or care and how worried they should be.
 

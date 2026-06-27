@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Migrants, police clash again on Greek-Turkish border'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /migrants-police-clash-again-on-greek-turkish-border/
 image: /wp-content/uploads/2020/03/3558/migrants-police-clash-again-on-greek-turkish-border.jpg
 tags: [Migrants, Police]
 ---
+draft: true
 
 KASTANIES, Greece (AP) --- Greek authorities used tear gas and a water cannon to repulse an attempt by migrants to push through the border from Turkey Friday morning, while Turkish authorities fired volleys of tear gas onto the Greek side of the frontier.
 

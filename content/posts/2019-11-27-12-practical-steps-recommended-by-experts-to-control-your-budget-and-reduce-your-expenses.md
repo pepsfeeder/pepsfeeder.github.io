@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 12 practical steps recommended by experts to control your budget and reduce your expenses
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /12-practical-steps-recommended-by-experts-to-control-your-budget-and-reduc
 image: /wp-content/uploads/2019/11/expenses.jpg
 tags: [Budget, Expenses, Financial, funds, income, Monthly, plan]
 ---
+draft: true
 
 Budgeting and sticking to it are the first steps toward financial independence, readers' Digest reported.
 

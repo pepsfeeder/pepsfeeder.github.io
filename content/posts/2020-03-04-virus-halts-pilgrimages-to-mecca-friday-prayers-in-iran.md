@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Virus halts pilgrimages to Mecca, Friday prayers in Iran'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /virus-halts-pilgrimages-to-mecca-friday-prayers-in-iran/
 image: /wp-content/uploads/2020/03/pilgrimages-to-Mecca.jpg
 tags: [halts, Virus]
 ---
+draft: true
 
 TEHRAN, Iran (AP) --- The coronavirus outbreak disrupted Islamic treasure in the Middle East as Saudi Arabia on Wednesday banned its voters and other residents of the kingdom from performing the pilgrimage in Mecca, whereas Iran canceled Friday prayers in principal cities.
 

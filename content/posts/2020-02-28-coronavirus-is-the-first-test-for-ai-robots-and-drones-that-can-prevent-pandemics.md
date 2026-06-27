@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Coronavirus is the first test for AI, robots, and drones that can prevent pandemics'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /coronavirus-is-the-first-test-for-ai-robots-and-drones-that-can-prevent-pa
 image: /wp-content/uploads/2020/02/3378/coronavirus-is-the-first-test-for-ai-robots-and-drones-that-can-prevent-pandemics.jpg
 tags: [Coronavirus, first]
 ---
+draft: true
 
 The unconventional coronavirus that first appeared in mainland China has now spread internationally, with greater than 82,000 reported conditions and nearly 3,000 deaths, as of Thursday. And honest correct alongside the outbreak is the deployment of myriad forms of AI-powered tech that's now being place apart on full exhibit.
 

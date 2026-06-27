@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Saudis' arrest of 2 princes called a warning to royal family
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /saudis-arrest-of-2-princes-called-a-warning-to-royal-family/
 image: /wp-content/uploads/2020/03/3584/saudis-arrest-of-2-princes-called-a-warning-to-royal-family.jpg
 tags: [arrest, Saudis']
 ---
+draft: true
 
 DUBAI, United Arab Emirates (AP) --- Two senior princes in Saudi Arabia are under arrest for not supporting Crown Prince Mohammed bin Salman, who has consolidated control of all major levers of power with the support of his father, King Salman, two people close to the royal family said Saturday.
 

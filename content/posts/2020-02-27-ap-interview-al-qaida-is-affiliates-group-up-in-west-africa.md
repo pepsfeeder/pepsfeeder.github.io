@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'AP Interview: Al-Qaida, IS affiliates group up in West Africa'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /ap-interview-al-qaida-is-affiliates-group-up-in-west-africa/
 image: /wp-content/uploads/2020/02/3337/ap-interview-al-qaida-is-affiliates-group-up-in-west-africa.jpeg
 tags: [Al-Qaida, Interview]
 ---
+draft: true
 
 THIES, Senegal (AP) --- The fully discipline on this planet the set fighters linked to al-Qaida and the Islamic Negate community are cooperating is in West Africa's sprawling Sahel quandary, giving the extremists bigger depth as they push into unusual areas, in accordance with the commander of the U.S. defense force's special forces in Africa.
 

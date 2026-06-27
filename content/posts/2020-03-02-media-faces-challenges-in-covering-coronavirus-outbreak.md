@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Media faces challenges in covering coronavirus outbreak
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'NEW YORK (AP) --- Covering the coronavirus story requires careful navi
 url: /media-faces-challenges-in-covering-coronavirus-outbreak/
 tags: [faces, Media]
 ---
+draft: true
 
 NEW YORK (AP) --- Preserving the coronavirus sage requires cautious navigation and genuine attention.
 

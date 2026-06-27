@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'With borders and businesses closing, world hunkers down'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /with-borders-and-businesses-closing-world-hunkers-down/
 image: /wp-content/uploads/2020/03/3708/with-borders-and-businesses-closing-world-hunkers-down.jpg
 tags: [borders, businesses]
 ---
+draft: true
 
 BANGKOK (AP) --- With borders slamming shut, schools and businesses closing and increasingly drastic restrictions on movement, tens of millions of people were hunkered down Tuesday, heeding government calls to isolate themselves and slow the spread of the new coronavirus.
 

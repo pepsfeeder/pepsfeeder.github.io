@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Child dies as migrants rush to cross Greek-Turkish border
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'KASTANIES, Greece (AP) --- A child died when a boat full of migrants h
 url: /child-dies-as-migrants-rush-to-cross-greek-turkish-border/
 tags: [Child, Migrants]
 ---
+draft: true
 
 KASTANIES, Greece (AP) --- Neutral a exiguous one died when a boat beefy of migrants heading to a Greek island capsized Monday, half of a wave of thousands seeking to push thru Greece's land and sea borders after Turkey declared the capacity used to be start for migrants and refugees to enter Europe.
 

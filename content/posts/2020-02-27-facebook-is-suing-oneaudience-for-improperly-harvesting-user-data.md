@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Facebook is suing OneAudience for improperly harvesting user data
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /facebook-is-suing-oneaudience-for-improperly-harvesting-user-data/
 image: /wp-content/uploads/2020/02/3372/facebook-is-suing-oneaudience-for-improperly-harvesting-user-data.jpg
 tags: [Facebook, suing]
 ---
+draft: true
 
 Facebook filed a federal lawsuit in California on Thursday against OneAudience, a marketing firm that it says paid app developers to use the "login with Facebook" feature to improperly make fetch entry to to non-public recordsdata with out customers' permission.
 

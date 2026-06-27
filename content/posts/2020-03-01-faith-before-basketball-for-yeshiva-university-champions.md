@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Faith before basketball for Yeshiva University champions
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /faith-before-basketball-for-yeshiva-university-champions/
 image: /wp-content/uploads/2020/03/3463/faith-before-basketball-for-yeshiva-university-champions.jpeg
 tags: [basketball, Faith]
 ---
+draft: true
 
 NEW YORK (AP) --- Every of the mighty Maccabees has his role on the men's basketball personnel. Gabriel Leifer sinks three-pointers; Daniel Katz is the protection wizard; Simcha Halpert makes the correct alley-oop passes to Ryan Turell who soars for dunks.
 

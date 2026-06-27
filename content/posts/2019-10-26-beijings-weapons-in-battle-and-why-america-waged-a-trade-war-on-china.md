@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Beijing's weapons in battle and Why America waged a trade war on China
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /beijings-weapons-in-battle-and-why-america-waged-a-trade-war-on-china/
 image: /wp-content/uploads/2019/10/President_Trump_at_the_G20-trade-war.jpg
 tags: [America, China, Trade War, Trump, US sanctions]
 ---
+draft: true
 
 In the aftermath of the Cold War, the United States changed its policy and priorities and viewed China's economic emergence as a major threat to its interests in the decades to come. Due to its rapid economic growth, technological advancement, and weapons development, China has become a future competitor to the United States.
 

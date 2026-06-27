@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Twitter CEO Jack Dorsey could be ousted by activist investors
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /twitter-ceo-jack-dorsey-could-be-ousted-by-activist-investors/
 image: /wp-content/uploads/2020/03/3469/twitter-ceo-jack-dorsey-could-be-ousted-by-activist-investors.jpg
 tags: [Dorsey, Twitter]
 ---
+draft: true
 
 Jack Dorsey is the CEO of Twitter. He shall be the CEO of Sq..
 

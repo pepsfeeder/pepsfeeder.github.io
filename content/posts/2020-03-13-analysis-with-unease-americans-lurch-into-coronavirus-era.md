@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Analysis: With unease, Americans lurch into coronavirus era'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /analysis-with-unease-americans-lurch-into-coronavirus-era/
 image: /wp-content/uploads/2020/03/3649/analysis-with-unease-americans-lurch-into-coronavirus-era.jpg
 tags: [analysis, unease]
 ---
+draft: true
 
 So this is where we are:
 

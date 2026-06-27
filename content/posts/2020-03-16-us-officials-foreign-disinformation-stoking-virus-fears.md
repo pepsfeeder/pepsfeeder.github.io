@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'US officials: Foreign disinformation stoking virus fears'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /us-officials-foreign-disinformation-stoking-virus-fears/
 image: /wp-content/uploads/2020/03/3698/us-officials-foreign-disinformation-stoking-virus-fears.jpg
 tags: [Foreign, Officials]
 ---
+draft: true
 
 WASHINGTON (AP) --- The Trump administration is alleging that a foreign disinformation campaign is underway aimed at spreading fear in the country amid the coronavirus pandemic, three U.S. officials said Monday.
 

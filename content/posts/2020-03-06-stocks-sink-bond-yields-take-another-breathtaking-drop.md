@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Stocks sink, bond yields take another breathtaking drop'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /stocks-sink-bond-yields-take-another-breathtaking-drop/
 image: /wp-content/uploads/2020/03/3564/stocks-sink-bond-yields-take-another-breathtaking-drop.jpeg
 tags: [Stocks, yields]
 ---
+draft: true
 
 NEW YORK (AP) --- Stocks kept falling Friday, and bond yields took more breathtaking drops as a brutal, dizzying couple weeks of trading showed no sign of letting up.
 

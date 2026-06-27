@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump opens a new way in trade wars
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-opens-a-new-way-in-trade-wars/
 image: /wp-content/uploads/2020/02/trade-war-trump.jpg
 tags: [tariff, tariffs, trade wars, Trump's new currency base, US Department of Commerce]
 ---
+draft: true
 
 American Foreign Policy said that President Donald Trump will try – by applying a new currency rule – to repair the damage caused by the tariff imposed by him, but he might end up causing more devastation resulting from his protectionist trade policies.
 

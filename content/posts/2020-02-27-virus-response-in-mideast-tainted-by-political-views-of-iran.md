@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Virus response in Mideast tainted by political views of Iran
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /virus-response-in-mideast-tainted-by-political-views-of-iran/
 image: /wp-content/uploads/2020/02/3359/virus-response-in-mideast-tainted-by-political-views-of-iran.jpg
 tags: [response, Virus]
 ---
+draft: true
 
 BEIRUT (AP) --- Within the Middle East, even virus outbreaks are political.
 

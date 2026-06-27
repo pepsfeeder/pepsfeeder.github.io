@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Virus effects take hold as Trump calls criticisms a ‘hoax'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /virus-effects-take-hold-as-trump-calls-criticisms-a-hoax/
 image: /wp-content/uploads/2020/02/3423/virus-effects-take-hold-as-trump-calls-criticisms-a-hoax.jpg
 tags: [effects, Virus]
 ---
+draft: true
 
 TOKYO (AP) --- The coronavirus outbreak's affect on the arena economy grew extra alarming on Saturday, even as President Donald Trump denounced criticisms of his response to the threat as a "hoax" cooked up by his political enemies.
 

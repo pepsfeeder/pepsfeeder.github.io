@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Stocks just ‘corrected,'' a regular but still scary event'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /stocks-just-corrected-a-regular-but-still-scary-event/
 image: /wp-content/uploads/2020/02/3382/stocks-just-corrected-a-regular-but-still-scary-event.jpg
 tags: ['''corrected', Stocks]
 ---
+draft: true
 
 NEW YORK (AP) --- The stock market's fresh creep hit a tall milestone Thursday after indexes bought pounded for a sixth straight day.
 

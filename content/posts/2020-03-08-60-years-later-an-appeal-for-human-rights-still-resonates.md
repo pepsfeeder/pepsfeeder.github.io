@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '60 years later, ‘An Appeal for Human Rights'' still resonates'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /60-years-later-an-appeal-for-human-rights-still-resonates/
 image: /wp-content/uploads/2020/03/3592/60-years-later-an-appeal-for-human-rights-still-resonates.jpg
 tags: [later, years]
 ---
+draft: true
 
 ATLANTA (AP) --- Sixty years have passed since Roslyn Pope came home from Europe to a segregated South and channeled her frustrations into writing "An Appeal for Human Rights."
 

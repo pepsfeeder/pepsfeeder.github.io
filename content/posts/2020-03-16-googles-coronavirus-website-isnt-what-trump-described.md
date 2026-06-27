@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Google's coronavirus website isn't what Trump described
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /googles-coronavirus-website-isnt-what-trump-described/
 image: /wp-content/uploads/2020/03/3693/googles-coronavirus-website-isnt-what-trump-described.jpg
 tags: [Coronavirus, Google]
 ---
+draft: true
 
 Two days after President Donald Trump announced that Google was racing to build a site to help Americans find coronavirus testing, people are still confused about what's actually going on. In the aftermath of the announcement, reports emerged that Google was not fully aware of the plan Trump said the company was participating in. Given the threat the novel coronavirus poses to the US, this is not a good sign.
 

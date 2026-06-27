@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Now this: Tornado clobbers African American North Nashville'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /now-this-tornado-clobbers-african-american-north-nashville/
 image: /wp-content/uploads/2020/03/3576/now-this-tornado-clobbers-african-american-north-nashville.jpg
 tags: [clobbers, Tornado]
 ---
+draft: true
 
 NASHVILLE, Tenn. (AP) --- On a frigid Friday morning in North Nashville, Ishvicka Howell stood in her driveway and peered down the street at several utility trucks.
 

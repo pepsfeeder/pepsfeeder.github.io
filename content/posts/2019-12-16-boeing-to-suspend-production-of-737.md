@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Boeing to Suspend Production of 737
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /boeing-to-suspend-production-of-737/
 image: /wp-content/uploads/2019/12/boeing.jpg
 tags: [aircraft manufacturer, Boeing, Production]
 ---
+draft: true
 
 **The aircraft manufacturer announced on Monday that the production of its flagship aircraft will be suspended from next month. Despite the 737 MAX's flight ban for nine months, Boeing had continued production at its Renton plant. No return to service date has been brought forward.**
 

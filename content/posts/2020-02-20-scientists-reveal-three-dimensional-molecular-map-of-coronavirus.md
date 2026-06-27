@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Scientists reveal three-dimensional molecular map of Coronavirus
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /scientists-reveal-three-dimensional-molecular-map-of-coronavirus/
 image: /wp-content/uploads/2020/02/coronavirus-2.jpg
 tags: [Emerging Covid-19 Infection of Human Cells, Science Magazine, Triple Molecular Corona Virus, US Scientists]
 ---
+draft: true
 
 US scientists have published in the journal “Science” the first triple molecular map of a section of the emerging coronavirus (Covid-19) responsible for infecting human cells, an important step that may contribute to developing appropriate treatments and vaccines to counter the virus.
 The team of researchers from the University of Texas at Austin and the National Institutes of Health used the technique “Deep Electron Microscopy” (Nobel Laureate in Chemistry in 2017) to model a portion of the virus that attaches to human cells.

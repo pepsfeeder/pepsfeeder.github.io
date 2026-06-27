@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Warren ends 2020 presidential bid, not endorsing anyone yet'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /warren-ends-2020-presidential-bid-not-endorsing-anyone-yet/
 image: /wp-content/uploads/2020/03/3550/warren-ends-2020-presidential-bid-not-endorsing-anyone-yet.jpg
 tags: [presidential, Warren]
 ---
+draft: true
 
 WASHINGTON (AP) --- Elizabeth Warren, who electrified progressives with her "plan for everything" and strong message of economic populism, dropped out of the Democratic presidential race on Thursday, days after the onetime front-runner failed to win a single Super Tuesday state, not even her own.
 

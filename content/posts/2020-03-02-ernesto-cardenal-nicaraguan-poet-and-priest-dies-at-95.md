@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Ernesto Cardenal, Nicaraguan poet and priest, dies at 95'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /ernesto-cardenal-nicaraguan-poet-and-priest-dies-at-95/
 image: /wp-content/uploads/2020/03/3465/ernesto-cardenal-nicaraguan-poet-and-priest-dies-at-95.jpg
 tags: [Cardenal, Ernesto]
 ---
+draft: true
 
 MANAGUA, Nicaragua (AP) --- Ernesto Cardenal, the favorite poet and Roman Catholic cleric who turned a symbol of innovative verse in Nicaragua and spherical Latin The US, and whose suspension from the priesthood by St. John Paul II lasted over three decades, died Sunday. He became as soon as 95.
 

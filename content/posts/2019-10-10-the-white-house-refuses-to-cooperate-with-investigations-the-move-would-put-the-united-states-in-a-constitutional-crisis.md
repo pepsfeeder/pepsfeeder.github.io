@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The White House Refuses to Cooperate with Investigations The move would put the United States in a constitutional crisis
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /the-white-house-refuses-to-cooperate-with-investigations-the-move-would-pu
 image: /wp-content/uploads/2019/10/white-house-investigation.jpg
 tags: [Biden, constitutional crisis, Pelosi, Trump]
 ---
+draft: true
 
 The White House has decided to refuse to cooperate with ongoing investigations that Democrats are seeking to begin proceedings to isolate President Donald Trump, arguing that the investigation lacks "constitutional legitimacy" and would put the United States in a constitutional crisis.
 

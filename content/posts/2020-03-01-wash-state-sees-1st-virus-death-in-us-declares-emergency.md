@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Wash. state sees 1st virus death in US, declares emergency'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /wash-state-sees-1st-virus-death-in-us-declares-emergency/
 image: /wp-content/uploads/2020/03/3447/wash-state-sees-1st-virus-death-in-us-declares-emergency.jpeg
 tags: [state, Virus]
 ---
+draft: true
 
 The governor of Washington declared a convey of emergency Saturday after a person died there of COVID-19, the first such reported death in the US. Extra than 50 of us in a nursing facility are sick and being examined for the virus.
 

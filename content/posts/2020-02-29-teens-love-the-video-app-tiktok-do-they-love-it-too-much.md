@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Teens love the video app TikTok. Do they love it too much?
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /teens-love-the-video-app-tiktok-do-they-love-it-too-much/
 image: /wp-content/uploads/2020/02/3436/teens-love-the-video-app-tiktok-do-they-love-it-too-much.jpg
 tags: [teens, video]
 ---
+draft: true
 
 From the perspective of teenagers, TikTok is a predominant original outlet for self-expression, one proudly dwelling to the silly, the loud and the unusual.
 

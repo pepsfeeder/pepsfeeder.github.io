@@ -1,4 +1,5 @@
 ---
+draft: true
 title: US worshippers grapple with virus burdens others have borne
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /us-worshippers-grapple-with-virus-burdens-others-have-borne/
 image: /wp-content/uploads/2020/03/3548/us-worshippers-grapple-with-virus-burdens-others-have-borne.jpg
 tags: [grapple, worshippers]
 ---
+draft: true
 
 NEW YORK (AP) --- A rising number of churches across the United States are making changes in response to the coronavirus outbreak, including a decision by numerous Catholic dioceses to suspend the serving of wine during Communion.
 

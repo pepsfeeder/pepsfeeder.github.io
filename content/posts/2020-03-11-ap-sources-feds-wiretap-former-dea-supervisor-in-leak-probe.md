@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'AP sources: Feds wiretap former DEA supervisor in leak probe'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /ap-sources-feds-wiretap-former-dea-supervisor-in-leak-probe/
 image: /wp-content/uploads/2020/03/3631/ap-sources-feds-wiretap-former-dea-supervisor-in-leak-probe.jpg
 tags: [sources, wiretap]
 ---
+draft: true
 
 MIAMI (AP) --- Federal investigators took the unusual step of wiretapping a retired supervisor in the U.S. Drug Enforcement Administration's Miami office as part of an inquiry into whether sensitive case information was leaked to attorneys for suspected drug traffickers in Colombia, current and former law enforcement officials told The Associated Press.
 

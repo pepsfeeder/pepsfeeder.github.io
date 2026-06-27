@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump faces credibility test as he performs down virus threat
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-faces-credibility-test-as-he-performs-down-virus-threat/
 image: /wp-content/uploads/2020/02/3317/trump-faces-credibility-test-as-he-performs-down-virus-threat.jpg
 tags: [faces, Trump]
 ---
+draft: true
 
 WASHINGTON (AP) --- President Donald Trump faces a well-known challenge in grappling with the brand new coronavirus outbreak: Asking Americans to trust him after he and high advisers maintain contradicted federal scientists in playing down the threat.
 

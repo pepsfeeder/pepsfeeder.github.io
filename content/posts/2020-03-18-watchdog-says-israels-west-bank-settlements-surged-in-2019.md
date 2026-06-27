@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Watchdog says Israel's West Bank settlements surged in 2019
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /watchdog-says-israels-west-bank-settlements-surged-in-2019/
 image: /wp-content/uploads/2020/03/3726/watchdog-says-israels-west-bank-settlements-surged-in-2019.jpeg
 tags: [Israel's, Watchdog]
 ---
+draft: true
 
 JERUSALEM (AP) --- Israeli settlement activity in the West Bank surged ahead in 2019, a watchdog group said in a report Tuesday, maintaining a rapid pace that has drawn strength from the friendly policies of the Trump administration.
 

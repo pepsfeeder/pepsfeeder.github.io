@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump's latest travel ban highlights gaps in containment net
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trumps-latest-travel-ban-highlights-gaps-in-containment-net/
 image: /wp-content/uploads/2020/03/3669/trumps-latest-travel-ban-highlights-gaps-in-containment-net-scaled.jpg
 tags: [Latest, Trump]
 ---
+draft: true
 
 NEW YORK (AP) --- In the weeks before President Donald Trump spoke from the Oval Office to announce restrictions on travelers from more than two dozen countries in Europe, thousands of people from the region already had stepped off planes at U.S. airports, and an untold number of them carried the coronavirus.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Global stocks fall again on fear of virus impact on economy
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /global-stocks-fall-again-on-fear-of-virus-impact-on-economy/
 image: /wp-content/uploads/2020/02/3394/global-stocks-fall-again-on-fear-of-virus-impact-on-economy.jpeg
 tags: [Global, Stocks]
 ---
+draft: true
 
 Global stock markets plunged extra Friday on spreading fears over the influence of the present coronavirus, with some indexes location to shut out their worst week for the reason that depths of the monetary disaster in 2008.
 

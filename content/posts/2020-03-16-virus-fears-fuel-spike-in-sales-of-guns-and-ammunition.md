@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Virus fears fuel spike in sales of guns and ammunition
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /virus-fears-fuel-spike-in-sales-of-guns-and-ammunition/
 image: /wp-content/uploads/2020/03/3702/virus-fears-fuel-spike-in-sales-of-guns-and-ammunition.jpg
 tags: [fears, Virus]
 ---
+draft: true
 
 BOISE, Idaho (AP) --- The world's largest gun store, in metro Atlanta, has had lines that are six and eight people deep. A gun store in Los Angeles had lines that stretched down the block. And at least one store in Idaho put limits on sales after its shelves were nearly cleared out.
 

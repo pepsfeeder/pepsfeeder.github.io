@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Dream of a lifetime: Transgender man yearns to join military'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /dream-of-a-lifetime-transgender-man-yearns-to-join-military/
 image: /wp-content/uploads/2020/03/3683/dream-of-a-lifetime-transgender-man-yearns-to-join-military.jpg
 tags: [Dream, lifetime]
 ---
+draft: true
 
 LISBON, Ohio (AP) --- Nic Talbott keeps himself busy, working as a substitute teacher, studying for a master's degree, helping with chores at his grandmother's farm. He also finds time, almost daily, for rigorous workouts --- to ensure he is in shape in case his dream job, serving in the U.S. military, becomes available.
 

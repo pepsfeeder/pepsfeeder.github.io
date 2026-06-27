@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Pete Buttigieg Dropped Out and It's Reshaping the Race
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ url: /pete-buttigieg-dropped-out-and-its-reshaping-the-race/
 image: /wp-content/uploads/2020/03/Pete-Buttigieg-scaled.jpeg
 tags: [Bernie Sanders, Democrats, Election 2020, Pete Buttigieg, politics]
 ---
+draft: true
 
 The once-enormous Democratic presidential primary field has suddenly gotten quite small
 

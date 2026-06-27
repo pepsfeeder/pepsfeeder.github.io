@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Facebook canceled a major annual tech conference because of coronavirus. It's not alone.
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /facebook-canceled-a-major-annual-tech-conference-because-of-coronavirus-it
 image: /wp-content/uploads/2020/03/3451/facebook-canceled-a-major-annual-tech-conference-because-of-coronavirus-its-not-alone.jpeg
 tags: [canceled, Facebook]
 ---
+draft: true
 
 The Covid-19 coronavirus is prompting predominant tech conferences spherical the sector to waste their events --- so far, several predominant ones bear been called off completely, including Facebook's annual F8 developer convention. It's a rare disruption to the same old packed lineup of annual tech events every spring.
 

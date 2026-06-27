@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'In scramble to stop virus, testing raises tough questions'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /in-scramble-to-stop-virus-testing-raises-tough-questions/
 image: /wp-content/uploads/2020/02/3376/in-scramble-to-stop-virus-testing-raises-tough-questions.jpeg
 tags: [scramble, Virus]
 ---
+draft: true
 
 NEW YORK (AP) --- Health officials confronted complicated questions and doubts Thursday about testing to intercept the short-spreading virus, with scrutiny centered on a four-day lengthen in screening an contaminated California girl despite her doctors' early calls to form so.
 

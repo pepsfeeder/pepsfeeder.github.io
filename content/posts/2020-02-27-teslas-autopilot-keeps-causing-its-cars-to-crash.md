@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Tesla's Autopilot keeps causing its cars to crash
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /teslas-autopilot-keeps-causing-its-cars-to-crash/
 image: /wp-content/uploads/2020/02/3363/teslas-autopilot-keeps-causing-its-cars-to-crash.jpg
 tags: [Autopilot, Tesla]
 ---
+draft: true
 
 Tesla is facing heat from federal officers following yet another fatal accident keen Autopilot. The National Transportation Safety Board (NTSB) currently found that Tesla's semi-self ample riding feature turned into in part accountable in a 2018 fatal automobile break, adding yet yet another accident to the expertise's already worrisome myth. What's unprecedented extra bearing on is that Tesla doesn't seem too attracted to addressing these concerns.
 

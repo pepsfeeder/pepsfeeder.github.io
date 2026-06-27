@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Walmart will soon test an Amazon Prime competitor called Walmart+
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /walmart-will-soon-test-an-amazon-prime-competitor-called-walmart/
 image: /wp-content/uploads/2020/02/3374/walmart-will-soon-test-an-amazon-prime-competitor-called-walmart.jpeg
 tags: [amazon, Walmart]
 ---
+draft: true
 
 When Amazon launched a icy membership program called Amazon Top in 2005, Walmart boasted increased earnings than Amazon had earnings. Fifteen years later, despite the indisputable truth that, Top is the main motive for Amazon's dominance over Walmart in on-line sales.
 

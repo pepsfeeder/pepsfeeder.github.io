@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump seeks high court approval to speed deportations
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-seeks-high-court-approval-to-speed-deportations/
 image: /wp-content/uploads/2020/03/3445/trump-seeks-high-court-approval-to-speed-deportations.jpg
 tags: [seeks, Trump]
 ---
+draft: true
 
 WASHINGTON (AP) --- The particular person slipped into the U.S.from Tijuana, Mexico, and made it upright 25 yards from the border earlier than he was arrested.
 

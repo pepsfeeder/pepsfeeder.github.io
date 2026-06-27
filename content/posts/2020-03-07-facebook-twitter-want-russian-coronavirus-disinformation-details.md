@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Facebook, Twitter want Russian coronavirus disinformation details'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /facebook-twitter-want-russian-coronavirus-disinformation-details/
 image: /wp-content/uploads/2020/03/3572/facebook-twitter-want-russian-coronavirus-disinformation-details.jpeg
 tags: [Facebook, Twitter]
 ---
+draft: true
 
 State Department officials are claiming that disinformation related to the coronavirus --- including some pushed by Russia --- is rampant across popular social media platforms. But the government seems cagey about reporting the details to the companies involved.
 

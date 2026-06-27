@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump urges tranquil even as US reports worrisome recent virus case
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-urges-tranquil-even-as-us-reports-worrisome-recent-virus-case/
 image: /wp-content/uploads/2020/02/3329/trump-urges-tranquil-even-as-us-reports-worrisome-recent-virus-case.jpg
 tags: [Trump, urges]
 ---
+draft: true
 
 WASHINGTON (AP) --- President Donald Trump declared Wednesday that a widespread U.S. outbreak of the recent respiratory virus sweeping the globe isn't inevitable even as high well being authorities at his aspect warned Americans that more infections are coming.
 

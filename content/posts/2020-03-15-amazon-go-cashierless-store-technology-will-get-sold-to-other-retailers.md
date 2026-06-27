@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Amazon Go cashierless store technology will get sold to other retailers
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /amazon-go-cashierless-store-technology-will-get-sold-to-other-retailers/
 image: /wp-content/uploads/2020/03/3679/amazon-go-cashierless-store-technology-will-get-sold-to-other-retailers.jpg
 tags: [amazon, cashierless]
 ---
+draft: true
 
 Last month, Amazon showcased its cashierless, no-checkout-line technology in its own full-size grocery store. Now, Amazon says it wants other retailers to use it, too.
 

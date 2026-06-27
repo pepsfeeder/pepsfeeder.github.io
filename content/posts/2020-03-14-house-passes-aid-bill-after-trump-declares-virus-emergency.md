@@ -1,4 +1,5 @@
 ---
+draft: true
 title: House passes aid bill after Trump declares virus emergency
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /house-passes-aid-bill-after-trump-declares-virus-emergency/
 image: /wp-content/uploads/2020/03/3665/house-passes-aid-bill-after-trump-declares-virus-emergency.jpg
 tags: [House, passes]
 ---
+draft: true
 
 WASHINGTON (AP) --- The House approved legislation early Saturday to provide direct relief to Americans suffering physically, financially and emotionally from the coronavirus pandemic.
 

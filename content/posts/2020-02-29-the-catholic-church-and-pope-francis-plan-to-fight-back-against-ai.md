@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The Catholic Church and Pope Francis plan to fight back against AI
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /the-catholic-church-and-pope-francis-plan-to-fight-back-against-ai/
 image: /wp-content/uploads/2020/02/3431/the-catholic-church-and-pope-francis-plan-to-fight-back-against-ai.jpg
 tags: [Catholic, Church]
 ---
+draft: true
 
 On Friday, Pope Francis backed a doc that outlines how synthetic intelligence, in conjunction with facial recognition technology, desires to be regulated. This so-known as "Rome Demand AI Ethics" carries the endorsement of the Vatican as smartly as Microsoft and IBM. Imagine it or no longer, the long run of AI is de facto one of the crucial pope's ardour initiatives --- and finest worries**.**
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Foreign Policy and NATO Why does Trump adopt the principle of "America first"?
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /foreign-policy-and-nato-why-does-trump-adopt-the-principle-of-america-firs
 image: /wp-content/uploads/2019/12/trump-america-first-nato.jpg
 tags: [Foreign Policy, NATO, Trump]
 ---
+draft: true
 
 US President Donald Trump's participation in the NATO summit in London, marking the 70th anniversary of the alliance, raises questions about Trump's vision of foreign policy issues.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Joe Biden, nominee-in-waiting. And waiting. And waiting.'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /joe-biden-nominee-in-waiting-and-waiting-and-waiting/
 image: /wp-content/uploads/2020/03/3744/joe-biden-nominee-in-waiting-and-waiting-and-waiting.jpg
 tags: [Biden, waiting]
 ---
+draft: true
 
 WASHINGTON (AP) --- In the three weeks since his blowout win in the South Carolina primary, Joe Biden has emerged as the Democratic presidential nominee-in-waiting. But, amid the uncertainty of the coronavirus pandemic, put the emphasis on waiting.
 

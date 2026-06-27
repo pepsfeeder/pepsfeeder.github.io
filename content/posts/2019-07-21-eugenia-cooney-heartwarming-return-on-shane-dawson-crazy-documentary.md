@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Eugenia Cooney heartwarming Return On Shane Dawson Crazy Documentary
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /eugenia-cooney-heartwarming-return-on-shane-dawson-crazy-documentary/
 image: /wp-content/uploads/2019/07/eugina-cooney-first-370x215.jpg
 tags: [celebrety, eugina cooney, News, story]
 ---
+draft: true
 
 So as a lot of you guys have probably seen or maybe you haven't seen it yet, but I think over half a million people have already and has only been up for a few hours, Shane Dawson just posted a new video after months and not posting anything with Eugenia Cooney, if you don't know who Eugenia Cooney is she is a YouTuber who has over a million subscribers and her content kind of based around beauty fashion she has like this very Tim Burton aesthetic and style her videos were really cool and she had been recently getting a lot of online bullying because of her weight because she was extremely thin and people were sometimes worried about her health for the right reasons because they just honestly cared about her or they were just making fun of her and making her feel really bad about herself which if somebody is struggling it's not anyone's place to try to make them feel bad about themselves what pushes her to disappear from social media life and people was even thinking she is dead.
 

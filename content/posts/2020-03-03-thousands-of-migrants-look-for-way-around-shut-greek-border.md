@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thousands of migrants look for way around shut Greek border
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'KASTANIES, Greece (AP) --- Thousands of migrants searched for ways to 
 url: /thousands-of-migrants-look-for-way-around-shut-greek-border/
 tags: [Migrants, Thousands]
 ---
+draft: true
 
 KASTANIES, Greece (AP) --- Thousands of migrants looked for methods to immoral Greece's land border on Tuesday, days after Turkey made lawful on a longtime risk to commence its borders for those making an try for to immoral illegally into Europe.
 

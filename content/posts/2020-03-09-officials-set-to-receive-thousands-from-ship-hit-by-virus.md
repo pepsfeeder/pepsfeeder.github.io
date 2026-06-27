@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Officials set to receive thousands from ship hit by virus
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /officials-set-to-receive-thousands-from-ship-hit-by-virus/
 image: /wp-content/uploads/2020/03/3601/officials-set-to-receive-thousands-from-ship-hit-by-virus.jpg
 tags: [Officials, receive]
 ---
+draft: true
 
 SAN FRANCISCO (AP) --- Federal and state officials in California were preparing Monday to receive thousands of people from a cruise ship that has been idling off the cost of San Francisco with at least 21 people aboard infected with the novel coronavirus.
 

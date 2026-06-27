@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Hospitals fear any surge of virus cases, supply shortages'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /hospitals-fear-any-surge-of-virus-cases-supply-shortages/
 image: /wp-content/uploads/2020/03/3687/hospitals-fear-any-surge-of-virus-cases-supply-shortages.jpg
 tags: [hospitals, surge]
 ---
+draft: true
 
 TOLEDO, Ohio (AP) --- Government and hospital leaders are increasingly sounding the alarm about the health care system in the U.S. and its readiness to absorb waves of patients in the worst-case scenario involving the new coronavirus outbreak.
 

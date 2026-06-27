@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Saudi-Russia oil fight melts markets, targets US oil patch'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /saudi-russia-oil-fight-melts-markets-targets-us-oil-patch/
 image: /wp-content/uploads/2020/03/3605/saudi-russia-oil-fight-melts-markets-targets-us-oil-patch.jpg
 tags: [fight, Saudi-Russia]
 ---
+draft: true
 
 FRANKFURT, Germany (AP) --- A clash of the oil titans – Saudi Arabia and Russia – is sending shock waves through energy markets, with wide-ranging implications for consumers and oil companies, including those in the No. 1 producing country, the United States.
 

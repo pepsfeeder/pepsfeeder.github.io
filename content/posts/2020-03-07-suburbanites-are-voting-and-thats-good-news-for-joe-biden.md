@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Suburbanites are voting and that's good news for Joe Biden
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /suburbanites-are-voting-and-thats-good-news-for-joe-biden/
 image: /wp-content/uploads/2020/03/3578/suburbanites-are-voting-and-thats-good-news-for-joe-biden.jpeg
 tags: [Suburbanites, voting]
 ---
+draft: true
 
 BURNSVILLE, Minn. (AP) --- Nearly two years after suburbanites helped drive a Democratic surge, there are clear signs these voters are engaged and primed to vote Democratic again.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Virus epidemic growing by day hits schools, concerts, parks'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /virus-epidemic-growing-by-day-hits-schools-concerts-parks/
 image: /wp-content/uploads/2020/02/3388/virus-epidemic-growing-by-day-hits-schools-concerts-parks.jpg
 tags: [Epidemic, Virus]
 ---
+draft: true
 
 TOKYO (AP) --- Japan's schools ready to cease for nearly a month and entertainers, topped by Okay-pop superstars BTS, canceled events as an outbreak epidemic extended its unfold thru Asia into Europe and on Friday, into sub-Saharan Africa.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Experts: Cruise ships no place for a coronavirus quarantine'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /experts-cruise-ships-no-place-for-a-coronavirus-quarantine/
 image: /wp-content/uploads/2020/03/3582/experts-cruise-ships-no-place-for-a-coronavirus-quarantine.jpeg
 tags: [cruise, Experts]
 ---
+draft: true
 
 Cruise ships hit by coronavirus outbreaks have quickly found themselves with no ports for thousands of passengers as countries on four continents have quarantined vessels or kept them at sea for days.
 

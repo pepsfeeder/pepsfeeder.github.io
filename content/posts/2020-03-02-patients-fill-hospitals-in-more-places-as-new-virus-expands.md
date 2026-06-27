@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Patients fill hospitals in more places as new virus expands
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /patients-fill-hospitals-in-more-places-as-new-virus-expands/
 image: /wp-content/uploads/2020/03/3475/patients-fill-hospitals-in-more-places-as-new-virus-expands.jpeg
 tags: [hospitals, Patients]
 ---
+draft: true
 
 SEOUL, South Korea (AP) --- Virus cases in South Korea surged and millions of teens in Japan stayed dwelling from school Monday as officers struggled to dangle the epidemic in bigger than 60 countries, together with the United States, the attach two folks possess died and signs of an even bigger outbreak loomed.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Trump''s challenge: keeping his act fresh in reelection year'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trumps-challenge-keeping-his-act-fresh-in-reelection-year/
 image: /wp-content/uploads/2020/03/3570/trumps-challenge-keeping-his-act-fresh-in-reelection-year.jpg
 tags: [challenge, Trump's]
 ---
+draft: true
 
 WASHINGTON (AP) --- The Trump show has a consistent script. Same villains. Same nicknames. Same grievances. Same hero: himself.
 

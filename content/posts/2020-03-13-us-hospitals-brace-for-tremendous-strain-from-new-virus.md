@@ -1,4 +1,5 @@
 ---
+draft: true
 title: US hospitals brace for ‘tremendous strain' from new virus
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /us-hospitals-brace-for-tremendous-strain-from-new-virus/
 image: /wp-content/uploads/2020/03/3661/us-hospitals-brace-for-tremendous-strain-from-new-virus.jpeg
 tags: [brace, hospitals]
 ---
+draft: true
 
 U.S. hospitals are setting up circus-like triage tents, calling doctors out of retirement, guarding their supplies of face masks and making plans to cancel elective surgery as they brace for an expected onslaught of coronavirus patients.
 

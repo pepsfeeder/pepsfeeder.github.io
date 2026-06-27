@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Sex workers face ruin amid virus fears, brothel closures'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /sex-workers-face-ruin-amid-virus-fears-brothel-closures/
 image: /wp-content/uploads/2020/03/3710/sex-workers-face-ruin-amid-virus-fears-brothel-closures.jpg
 tags: [Virus, workers]
 ---
+draft: true
 
 BERLIN (AP) --- It's 7 p.m. on a Friday night, a time when Aurel Johannes Marx's three-room brothel on the edge of Berlin would normally be preparing for its first customers. Sex for sale has long been a staple part of the German capital's freewheeling nightlife. But amid concerns over the new coronavirus, even the world's supposedly oldest profession is suffering a sudden slump.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Clean water access for India's poor spawns virus concerns
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /clean-water-access-for-indias-poor-spawns-virus-concerns/
 image: /wp-content/uploads/2020/03/3728/clean-water-access-for-indias-poor-spawns-virus-concerns-scaled.jpg
 tags: [Clean, water]
 ---
+draft: true
 
 NEW DELHI (AP) --- Dharam Singh Rajput can't afford to buy hand sanitizer, which could help ward off transmission of the coronavirus in his community.
 

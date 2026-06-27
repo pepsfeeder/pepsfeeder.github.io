@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Noose placed on Wisconsin brewery shooter's locker in 2015
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /noose-placed-on-wisconsin-brewery-shooters-locker-in-2015/
 image: /wp-content/uploads/2020/03/3538/noose-placed-on-wisconsin-brewery-shooters-locker-in-2015.jpg
 tags: [Noose, placed]
 ---
+draft: true
 
 MADISON, Wis. (AP) --- Someone placed a noose several years ago on the locker of a Wisconsin brewery employee who last week opened fire on his co-workers, the brewery operator said Wednesday, confirming at least one instance of racial harassment against him as police continue to piece together his motive.
 

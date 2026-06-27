@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Disaster: Tornadoes shred 40 buildings around Nashville'
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'NASHVILLE, Tenn. (AP) --- At least two tornadoes touched down early Tu
 url: /disaster-tornadoes-shred-40-buildings-around-nashville/
 tags: [Disaster, Tornadoes]
 ---
+draft: true
 
 NASHVILLE, Tenn. (AP) --- No longer less than two tornadoes touched down early Tuesday in central Tennessee, including one who ripped across downtown Nashville and ended in about 40 buildings to collapse across the metropolis, police talked about as they sought for injured of us.
 

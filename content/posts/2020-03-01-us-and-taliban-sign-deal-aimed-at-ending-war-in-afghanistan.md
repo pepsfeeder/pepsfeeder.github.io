@@ -1,4 +1,5 @@
 ---
+draft: true
 title: US and Taliban sign deal aimed at ending war in Afghanistan
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /us-and-taliban-sign-deal-aimed-at-ending-war-in-afghanistan/
 image: /wp-content/uploads/2020/03/3449/us-and-taliban-sign-deal-aimed-at-ending-war-in-afghanistan.jpeg
 tags: [aimed, Taliban]
 ---
+draft: true
 
 DOHA, Qatar (AP) --- Acknowledging a protection power stalemate after when it comes to 2 decades of battle, the United States on Saturday signed a peace settlement with the Taliban that is geared toward ending The US's longest battle and bringing U.S. troops home from Afghanistan extra than 18 years after they invaded in the wake of the Sept. 11, 2001, terrorist attacks.
 

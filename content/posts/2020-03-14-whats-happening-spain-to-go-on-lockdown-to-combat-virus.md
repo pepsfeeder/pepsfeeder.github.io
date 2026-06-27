@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'What''s Happening: Spain to go on lockdown to combat virus'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /whats-happening-spain-to-go-on-lockdown-to-combat-virus/
 image: /wp-content/uploads/2020/03/3673/whats-happening-spain-to-go-on-lockdown-to-combat-virus.jpg
 tags: [Happening, What's]
 ---
+draft: true
 
 Governments are responding to the coronavirus pandemic by imposing tight restrictions on businesses and ordering people to stay home. Spain is expected to be the latest country to follow Italy's example by imposing nationwide restrictions. President Donald Trump, days after mingling with people who later tested positive for the virus at his private club in Florida, is now screening anyone who is coming into close contact with him and Vice President Mike Pence for fevers.
 

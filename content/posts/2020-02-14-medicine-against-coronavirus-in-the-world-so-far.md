@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Why is there no specific medicine against Coronavirus in the world so far?
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /medicine-against-coronavirus-in-the-world-so-far/
 image: /wp-content/uploads/2020/02/china-coronavirus.jpg
 tags: [Censorship, China, Coronavirus, Drugs, Epidemic, journalism, News media, Propaganda, Wuhan]
 ---
+draft: true
 
 **The severe acute respiratory syndrome (SARS) that broke out in Guangdong in February 2003 and the Middle East respiratory syndrome (MERS) that broke out in Saudi Arabia in September 2012 were caused by SARS-CoV and MERS-CoV coronaviruses, respectively.**
 Faced with the coronavirus that hit again after 2003, why hasn’t the world developed a special effective drug?

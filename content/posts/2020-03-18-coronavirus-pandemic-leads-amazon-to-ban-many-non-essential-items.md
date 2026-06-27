@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Coronavirus pandemic leads Amazon to ban many non-essential items
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /coronavirus-pandemic-leads-amazon-to-ban-many-non-essential-items/
 image: /wp-content/uploads/2020/03/3724/coronavirus-pandemic-leads-amazon-to-ban-many-non-essential-items.jpg
 tags: [Coronavirus, Pandemic]
 ---
+draft: true
 
 Faced with merchandise shortages in the United States and Europe due to the Covid-19 coronavirus pandemic, Amazon has instituted sweeping changes on which products it will store and ship from its warehouses over the next three weeks, in a move it said was aimed at keeping essential items in stock and speeding up orders.
 

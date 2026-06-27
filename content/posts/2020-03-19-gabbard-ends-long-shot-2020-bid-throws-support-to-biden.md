@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Gabbard ends long-shot 2020 bid, throws support to Biden'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /gabbard-ends-long-shot-2020-bid-throws-support-to-biden/
 image: /wp-content/uploads/2020/03/3740/gabbard-ends-long-shot-2020-bid-throws-support-to-biden.jpeg
 tags: [Gabbard, long-shot]
 ---
+draft: true
 
 COLUMBIA, S.C. (AP) --- Hawaii Rep. Tulsi Gabbard suspended her presidential campaign on Thursday, ending a long-shot effort that saw her feuding with Hillary Clinton and raising fears among Democrats that she would mount a third-party 2020 bid.
 

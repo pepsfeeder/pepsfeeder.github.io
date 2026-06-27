@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'AP-NORC poll: How Americans describe 2020 Democrats, Trump'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /ap-norc-poll-how-americans-describe-2020-democrats-trump/
 image: /wp-content/uploads/2020/02/3370/ap-norc-poll-how-americans-describe-2020-democrats-trump.jpg
 tags: [Americans, AP-NORC]
 ---
+draft: true
 
 WASHINGTON (AP) --- Competent, a fighter, trusty. Worn, out of contact, disingenuous. And, obviously: who's that?
 

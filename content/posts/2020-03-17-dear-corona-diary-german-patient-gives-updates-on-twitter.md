@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Dear Corona Diary: German patient gives updates on Twitter'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /dear-corona-diary-german-patient-gives-updates-on-twitter/
 image: /wp-content/uploads/2020/03/3718/dear-corona-diary-german-patient-gives-updates-on-twitter.jpg
 tags: [Corona, Diary]
 ---
+draft: true
 
 BERLIN (AP) --- On the fifth day after she fell ill with COVID-19 respiratory disease, Karoline Preisler could breathe again without wincing through severe pain in her chest.
 

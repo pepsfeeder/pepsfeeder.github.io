@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Biden wins 8 Super Tuesday states; Sanders takes California
 categories: ["insight"]
 author: Matthew Rozsa
@@ -8,6 +9,7 @@ excerpt: 'WASHINGTON (AP) --- A resurgent Joe Biden scored victories from Texas 
 url: /biden-wins-8-super-tuesday-states-sanders-takes-california/
 tags: [Biden, Super]
 ---
+draft: true
 
 WASHINGTON (AP) --- A resurgent Joe Biden scored victories from Texas to Massachusetts on Huge Tuesday, revitalizing a presidential inform that used to be teetering on the threshold of catastrophe correct days earlier. However his rival, Bernie Sanders, seized the ideal prize with a salvage in California that ensured he --- and his contain of democratic socialism --- would pressure the Democrats' nomination war for the foreseeable future.
 

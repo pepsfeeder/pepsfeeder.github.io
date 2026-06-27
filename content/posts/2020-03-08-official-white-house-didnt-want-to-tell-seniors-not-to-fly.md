@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Official: White House didn''t want to tell seniors not to fly'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /official-white-house-didnt-want-to-tell-seniors-not-to-fly/
 image: /wp-content/uploads/2020/03/3586/official-white-house-didnt-want-to-tell-seniors-not-to-fly.jpg
 tags: [Official, White]
 ---
+draft: true
 
 NEW YORK (AP) --- The White House overruled health officials who wanted to recommend that elderly and physically fragile Americans be advised not to fly on commercial airlines because of the new coronavirus, a federal official told The Associated Press.
 

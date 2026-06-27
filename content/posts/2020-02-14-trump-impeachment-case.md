@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Trump impeachment case: a six-year "drama" with a farce behind it'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-impeachment-case/
 image: /wp-content/uploads/2020/02/impeachment.jpg
 tags: [CNN, Democrats, impeachment, Impeachment duties, Nancy pelosi, President Trump]
 ---
+draft: true
 
 Impeached by the House of Representatives and acquitted by the Senate … In just 50 days, Trump, the 45th President of the United States, experienced two very historic moments during his tenure. At this moment, he is running for re-election, becoming the third president in American history to be acquitted after being impeached after Johnson and Clinton.
 Why did the impeachment drama break out? The “big show” in the past six months must start with a phone call

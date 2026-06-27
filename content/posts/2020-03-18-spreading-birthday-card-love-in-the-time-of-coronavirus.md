@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Spreading birthday card love in the time of coronavirus
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /spreading-birthday-card-love-in-the-time-of-coronavirus/
 image: /wp-content/uploads/2020/03/3720/spreading-birthday-card-love-in-the-time-of-coronavirus.jpg
 tags: [birthday, Spreading]
 ---
+draft: true
 
 NEW YORK (AP) --- Mona Helgeland was sad for her children. Their birthdays were coming up but they were self-quarantined because of the coronavirus and going to miss celebrating with friends and family.
 

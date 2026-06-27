@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Grandfather, Navy vet among 5 victims of Wisconsin shooting'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /grandfather-navy-vet-among-5-victims-of-wisconsin-shooting/
 image: /wp-content/uploads/2020/02/3421/grandfather-navy-vet-among-5-victims-of-wisconsin-shooting.jpeg
 tags: [among, Grandfather]
 ---
+draft: true
 
 The 5 males who were killed by a co-employee at a Milwaukee brewery consist of an electrician, a Navy original, a father of two microscopic formative years, a fisherman and a grandfather who’s being remembered as somebody who "constantly build his family's wants sooner than his possess."
 

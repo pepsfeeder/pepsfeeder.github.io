@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Biden fights for momentum in Democrats' shifting primary
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /biden-fights-for-momentum-in-democrats-shifting-primary/
 image: /wp-content/uploads/2020/03/3473/biden-fights-for-momentum-in-democrats-shifting-primary.jpg
 tags: [Biden, fights]
 ---
+draft: true
 
 SELMA, Ala. (AP) --- An emboldened Joe Biden is attempting to solid himself as the decided reasonable different to revolutionary Bernie Sanders as the Democrats' fearful presidential field raced in direction of Neat Tuesday.
 

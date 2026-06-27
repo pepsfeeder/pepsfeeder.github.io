@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Thousands on virus-hit cruise ship await disembarkation
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /thousands-on-virus-hit-cruise-ship-await-disembarkation/
 image: /wp-content/uploads/2020/03/3615/thousands-on-virus-hit-cruise-ship-await-disembarkation.jpg
 tags: [Thousands, virus-hit]
 ---
+draft: true
 
 OAKLAND, Calif. (AP) --- Thousands of passengers aboard a cruise ship struck by the novel coronavirus waited anxiously Tuesday for their chance to leave the vessel, even if meant being shipped to military bases for weeks of quarantine.
 

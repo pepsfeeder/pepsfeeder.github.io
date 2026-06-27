@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Virus spread prompts Fed to slash rates in surprise move
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /virus-spread-prompts-fed-to-slash-rates-in-surprise-move/
 image: /wp-content/uploads/2020/03/coronavirus.jpg
 tags: [spread, Virus]
 ---
+draft: true
 
 WASHINGTON (AP) --- In a shock switch, the Federal Reserve slash its benchmark hobby rate by a good half-percentage point Tuesday as a ability to beef up the financial system within the face of the spreading coronavirus.
 

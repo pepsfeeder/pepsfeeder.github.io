@@ -1,4 +1,5 @@
 ---
+draft: true
 title: It looks like Trump is trying to trick people into filling out "census" forms online
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /it-looks-like-trump-is-trying-to-trick-people-into-filling-out-census-form
 image: /wp-content/uploads/2020/03/3588/it-looks-like-trump-is-trying-to-trick-people-into-filling-out-census-forms-online.jpg
 tags: [looks, Trump]
 ---
+draft: true
 
 Shortly ahead of the US National 2020 census, President Trump's campaign is running ads on Facebook that some are saying are misleading users into thinking that a data-gathering and fundraising survey for the Trump presidential campaign is actually the official US national census. Facebook confirmed with Recode that it plans to take down the ads.
 

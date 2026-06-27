@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Exit polls: Netanyahu just short of majority in Israel vote'
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'JERUSALEM (AP) --- Israeli Prime Minister Benjamin Netanyahu held a so
 url: /exit-polls-netanyahu-just-short-of-majority-in-israel-vote/
 tags: [Netanyahu, polls]
 ---
+draft: true
 
 JERUSALEM (AP) --- Israeli Prime Minister Benjamin Netanyahu held a solid edge over his main rival in Israel's third election in beneath a 365 days, exit polls indicated Monday night, but it undoubtedly used to be unclear whether he can clinch the parliamentary majority wished to direct victory.
 

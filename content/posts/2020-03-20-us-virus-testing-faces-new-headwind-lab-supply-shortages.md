@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'US virus testing faces new headwind: Lab supply shortages'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /us-virus-testing-faces-new-headwind-lab-supply-shortages/
 image: /wp-content/uploads/2020/03/3752/us-virus-testing-faces-new-headwind-lab-supply-shortages.jpeg
 tags: [testing, Virus]
 ---
+draft: true
 
 WASHINGTON (AP) --- First, some of the coronavirus tests didn't work. Then there weren't enough to go around. Now, just as the federal government tries to ramp up nationwide screening, laboratory workers are warning of a new roadblock: dire shortages of testing supplies.
 

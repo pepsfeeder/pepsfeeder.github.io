@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Officials seek to calm public as new US virus cases reported
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ excerpt: 'PORTLAND, Ore. (AP) --- The coronavirus may have been circulating for 
 url: /officials-seek-to-calm-public-as-new-us-virus-cases-reported/
 tags: [Officials, public]
 ---
+draft: true
 
 PORTLAND, Ore. (AP) --- The coronavirus would possibly moreover fair were circulating for weeks undetected in Washington disclose, a preliminary finding that will moreover mean a total bunch of undiagnosed cases within the disclose that's also dwelling to the nation's first confirmed an infection and now the first death, researchers acknowledged Sunday after examining genetic samples of the pathogens.
 

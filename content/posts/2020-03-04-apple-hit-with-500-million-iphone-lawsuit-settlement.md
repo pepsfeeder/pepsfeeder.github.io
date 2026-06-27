@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Apple hit with $500 million iPhone lawsuit settlement
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /apple-hit-with-500-million-iphone-lawsuit-settlement/
 image: /wp-content/uploads/2020/03/3516/apple-hit-with-500-million-iphone-lawsuit-settlement.jpg
 tags: [Apple, million]
 ---
+draft: true
 
 Apple has agreed to pay as much as $500 million to settle a class action lawsuit over its phone batteries --- and you would possibly glean a (little) decrease of that.
 

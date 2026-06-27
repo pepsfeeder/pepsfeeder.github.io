@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'America Counts: Stories Behind the Numbers'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /stories-behind-the-numbers/
 image: /wp-content/uploads/2020/02/young-children-census.jpg
 tags: ['2020', America Counts, Census, Census Bureau, Cleveland, Great Lakes Science Center, Young Children]
 ---
+draft: true
 
   **Census Bureau Joins With National and Local Organizations to Count Young Children in 2020**
 

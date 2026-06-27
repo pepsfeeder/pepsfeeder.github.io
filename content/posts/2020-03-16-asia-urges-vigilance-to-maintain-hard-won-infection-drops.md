@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Asia urges vigilance to maintain hard-won infection drops
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /asia-urges-vigilance-to-maintain-hard-won-infection-drops/
 image: /wp-content/uploads/2020/03/3691/asia-urges-vigilance-to-maintain-hard-won-infection-drops.jpg
 tags: [urges, vigilance]
 ---
+draft: true
 
 TOKYO (AP) --- Millions of people began holing up at home, stocking up on supplies and keeping a wary eye on how close they got to friends and neighbors as fear of the coronavirus spread to more places around the world Monday.
 

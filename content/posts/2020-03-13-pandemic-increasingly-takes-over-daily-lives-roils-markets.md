@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Pandemic increasingly takes over daily lives, roils markets'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /pandemic-increasingly-takes-over-daily-lives-roils-markets/
 image: /wp-content/uploads/2020/03/3653/pandemic-increasingly-takes-over-daily-lives-roils-markets.jpg
 tags: [increasingly, Pandemic]
 ---
+draft: true
 
 SEOUL, South Korea (AP) --- The coronavirus pandemic has taken over daily lives around the globe, overwhelming hospitals, shuttering schools and offices, halting U.S. presidential campaign rallies and world sports while increasing fears about the financial toll.
 

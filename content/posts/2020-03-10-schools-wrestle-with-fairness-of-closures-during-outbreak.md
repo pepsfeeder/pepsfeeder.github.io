@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Schools wrestle with fairness of closures during outbreak
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /schools-wrestle-with-fairness-of-closures-during-outbreak/
 image: /wp-content/uploads/2020/03/3609/schools-wrestle-with-fairness-of-closures-during-outbreak.jpeg
 tags: [Schools, wrestle]
 ---
+draft: true
 
 PROVIDENCE, R.I. (AP) --- When the new coronavirus surfaced at Saint Raphael Academy after a school group returned from a trip to Italy, officials decided to close the Rhode Island Catholic high school for two weeks.
 

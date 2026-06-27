@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Nervous consumers around world pull back amid viral outbreak
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /nervous-consumers-around-world-pull-back-amid-viral-outbreak/
 image: /wp-content/uploads/2020/03/3645/nervous-consumers-around-world-pull-back-amid-viral-outbreak.jpg
 tags: [consumers, Nervous]
 ---
+draft: true
 
 WASHINGTON (AP) --- Buffeted by fears of the fast-spreading coronavirus, consumers in the United States and overseas are showing increasing signs of cutting back on spending in what amounts to a severe threat to economic growth.
 

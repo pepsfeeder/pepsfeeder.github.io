@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Stocks go on a wild ride as virus threatens economic damage
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /stocks-go-on-a-wild-ride-as-virus-threatens-economic-damage/
 image: /wp-content/uploads/2020/02/3368/stocks-go-on-a-wild-ride-as-virus-threatens-economic-damage.png
 tags: [Stocks, Virus]
 ---
+draft: true
 
 NEW YORK (AP) --- Shares went on a wild trip Thursday as traders battle to gauge the aptitude affect of the coronavirus outbreak on the arena economy.
 

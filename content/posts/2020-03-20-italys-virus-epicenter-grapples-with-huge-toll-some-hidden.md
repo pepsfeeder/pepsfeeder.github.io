@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Italy''s virus epicenter grapples with huge toll, some hidden'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /italys-virus-epicenter-grapples-with-huge-toll-some-hidden/
 image: /wp-content/uploads/2020/03/3748/italys-virus-epicenter-grapples-with-huge-toll-some-hidden.jpg
 tags: [Italy's, Virus]
 ---
+draft: true
 
 BERGAMO, Italy (AP) --- The priest gave a final benediction. There were no flowers, no embraces. Francesca Steffanoni and her mother hurried away from Bergamo's main cemetery, their furtive farewell lasting no more than 5 minutes.
 

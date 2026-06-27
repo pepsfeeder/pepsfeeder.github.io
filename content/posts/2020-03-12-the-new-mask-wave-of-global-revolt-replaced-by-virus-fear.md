@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'The new mask: Wave of global revolt replaced by virus fear'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /the-new-mask-wave-of-global-revolt-replaced-by-virus-fear/
 image: /wp-content/uploads/2020/03/3639/the-new-mask-wave-of-global-revolt-replaced-by-virus-fear.jpg
 tags: [Global, revolt]
 ---
+draft: true
 
 BEIRUT (AP) --- As 2019 gave way to 2020 in a cloud of tear gas, and in some cases a hail of bullets, from Hong Kong to Baghdad, from Beirut to Barcelona and Santiago, it seemed civil disobedience and government crackdowns on protests would dominate the international landscape.
 

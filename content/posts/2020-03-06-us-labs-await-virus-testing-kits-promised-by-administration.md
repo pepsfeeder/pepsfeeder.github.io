@@ -1,4 +1,5 @@
 ---
+draft: true
 title: US labs await virus-testing kits promised by administration
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /us-labs-await-virus-testing-kits-promised-by-administration/
 image: /wp-content/uploads/2020/03/3552/us-labs-await-virus-testing-kits-promised-by-administration.jpeg
 tags: [await, virus-testing]
 ---
+draft: true
 
 WASHINGTON (AP) --- Trump administration officials doubled down on their promise to deliver 1 million tests for the coronavirus this week as states reported limited testing supplies and federal lawmakers expressed doubts about the government's timeline.
 

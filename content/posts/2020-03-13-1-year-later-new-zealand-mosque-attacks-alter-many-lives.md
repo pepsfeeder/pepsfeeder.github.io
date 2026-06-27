@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '1 year later, New Zealand mosque attacks alter many lives'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /1-year-later-new-zealand-mosque-attacks-alter-many-lives/
 image: /wp-content/uploads/2020/03/3651/1-year-later-new-zealand-mosque-attacks-alter-many-lives.jpg
 tags: [later, Zealand]
 ---
+draft: true
 
 CHRISTCHURCH, New Zealand (AP) --- Fifty-one people were killed and dozens more injured when a lone gunman attacked two mosques in Christchurch last year. New Zealanders will commemorate those who died on the anniversary of the mass killing Sunday. Three people whose lives were forever altered that day say it has prompted changes in their career aspirations, living situations and in the way that others perceive them.
 

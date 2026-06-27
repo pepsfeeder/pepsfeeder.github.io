@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The Most Daring Red Carpet Looks in Grammy Awards History
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /the-most-daring-red-carpet-looks-in-grammy-awards-history/
 image: /wp-content/uploads/2019/06/featured-370x194.jpg
 tags: [cardi b, celebrities, holywood, katy perry, lady gaga, niki minaj, red carpet]
 ---
+draft: true
 
 The best part of awards shows isn't the presenters or the montages or even the awards. The best part, naturally, is the red carpet. That's what we end up remembering years after the show goes off the air. Every year, it seems, new fashion barriers are broken on the red carpet. We've learned that nothing is too outrageous, too over the top, or too revealing. And if you think something is, well, just wait until next year! We've rounded up the 20 sexiest, wildest, most absurd looks in Grammy Awards history. Some are gorgeous and others missed the mark, but all are memorable. These are the most daring Grammys red carpet looks of all time.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Coronavirus prompts Microsoft, Google, and Zoom to offer free software'
 categories: ["insight"]
 author: Matthew Rozsa
@@ -9,6 +10,7 @@ url: /coronavirus-prompts-microsoft-google-and-zoom-to-offer-free-software/
 image: /wp-content/uploads/2020/03/3671/coronavirus-prompts-microsoft-google-and-zoom-to-offer-free-software.jpeg
 tags: [Coronavirus, prompts]
 ---
+draft: true
 
 As the number of infections and deaths from the novel coronavirus rise drastically, governments, schools, and companies around the world are instituting more drastic measures to rein in the virus's spread. The moves are causing companies to accelerate an already growing trend of working from home that companies had mentioned last month but that's now playing out in their increased use of workplace software.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Afghans view US-Taliban deal with well-earned skepticism
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /afghans-view-us-taliban-deal-with-well-earned-skepticism/
 image: /wp-content/uploads/2020/02/3384/afghans-view-us-taliban-deal-with-well-earned-skepticism.jpeg
 tags: [Afghans, US-Taliban]
 ---
+draft: true
 
 KABUL, Afghanistan (AP) --- Many Afghans glimpse Saturday's expected signing of a U.S.-Taliban peace address a heavy dose of well-earned skepticism. They've spent decades dwelling in a country at war --- some their complete lives --- and charm if they can ever reach a say of peace.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: US cruise ship in limbo as anti-virus controls spread
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /us-cruise-ship-in-limbo-as-anti-virus-controls-spread/
 image: /wp-content/uploads/2020/03/3574/us-cruise-ship-in-limbo-as-anti-virus-controls-spread.jpg
 tags: [cruise, limbo]
 ---
+draft: true
 
 BEIJING (AP) --- Officials in California were deciding Saturday where to dock a cruise ship with 21 coronavirus cases aboard and four U.S. universities canceled in-person classes as Western countries imitate China by imposing travel controls and shutting down public events to contain the outbreak.
 

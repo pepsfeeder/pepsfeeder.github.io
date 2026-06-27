@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Masters, Boston Marathon postponed due to coronavirus'
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /masters-boston-marathon-postponed-due-to-coronavirus/
 image: /wp-content/uploads/2020/03/3663/masters-boston-marathon-postponed-due-to-coronavirus.jpg
 tags: [Boston, Masters]
 ---
+draft: true
 
 The shock waves from the coronavirus outbreak rattled sports for another day as two rites of spring, the Masters and Boston Marathon, were postponed.
 

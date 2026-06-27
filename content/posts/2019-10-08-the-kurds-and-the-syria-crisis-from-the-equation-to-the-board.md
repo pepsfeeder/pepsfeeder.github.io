@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The Kurds and the Syria Crisis From the Equation to the Board
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /the-kurds-and-the-syria-crisis-from-the-equation-to-the-board/
 image: /wp-content/uploads/2019/10/kurds-syria-crisis.jpg
 tags: [kurd, Syria, Turkey]
 ---
+draft: true
 
 ![military training](/wp-content/uploads/2019/10/military-training.jpg)
 

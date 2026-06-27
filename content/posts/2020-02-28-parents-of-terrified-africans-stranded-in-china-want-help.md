@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Parents of ‘terrified' Africans stranded in China want help
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /parents-of-terrified-africans-stranded-in-china-want-help/
 image: /wp-content/uploads/2020/02/3392/parents-of-terrified-africans-stranded-in-china-want-help.jpg
 tags: ['''terrified''', Parents]
 ---
+draft: true
 
 KAMPALA, Uganda (AP) --- She wakes every day long prior to interrupt of day to suppose along with her three stranded daughters on the assorted facet of the sphere in China's locked-down metropolis of Wuhan, anxious to see they’ve started a brand contemporary day virus-free.
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trump economic team grasps for credibility with outbreak
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /trump-economic-team-grasps-for-credibility-with-outbreak/
 image: /wp-content/uploads/2020/03/3647/trump-economic-team-grasps-for-credibility-with-outbreak.jpg
 tags: [economic, Trump]
 ---
+draft: true
 
 WASHINGTON (AP) --- During the financial crisis a decade ago, President Barack Obama could look around the room and turn to an economist who served as Harvard's president, a former president of the New York Federal Reserve and a renowned academic considered one of the world's authorities on the Great Depression.
 

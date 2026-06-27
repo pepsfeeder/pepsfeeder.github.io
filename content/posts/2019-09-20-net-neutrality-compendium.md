@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Does net neutrality gone ? No. Net neutrality explained, the Compendium'
 categories: ["insight"]
 author: Chris Manoel
@@ -8,6 +9,7 @@ url: /net-neutrality-compendium/
 image: /wp-content/uploads/2019/09/net-neutrality-featured-370x208.jpg
 tags: [FCC, Freedom, internet, Net neutrality, petition]
 ---
+draft: true
 
 Net neutrality has had through the last several years many apparent meanings and served to provoke a lot of debates across specialist from different fields of expertise, the issues that call on the term vary depending on geography, economics, business conditions, and regulatory environment, the debates and arguments advanced for or against net neutrality has evolved through the years from different perspectives to become inconsistent for comparison. we are trying here to compile as many resources as possible so we can cover different angles concerning net neutrality to give you a clear view on what is net neutrality and what are the implications for it.
 

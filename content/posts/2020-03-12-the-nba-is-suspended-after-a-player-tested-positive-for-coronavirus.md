@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The NBA is suspended after a player tested positive for coronavirus
 categories: ["insight"]
 author: Chris Manoel
@@ -9,6 +10,7 @@ url: /the-nba-is-suspended-after-a-player-tested-positive-for-coronavirus/
 image: /wp-content/uploads/2020/03/3641/the-nba-is-suspended-after-a-player-tested-positive-for-coronavirus.jpeg
 tags: [player, suspended]
 ---
+draft: true
 
 "If even one player comes down with coronavirus, the [NBA] would suspend instantaneously because of the cascading effect of quarantines," ESPN basketball reporter Brian Windhorst told me on Wednesday afternoon.
 

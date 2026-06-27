@@ -37,7 +37,7 @@ copyright = "&copy; Copyright 2024 pepsfeeder"
   #avatar = "/path/to/avatar"
 
   twitter = "pepsfeeder"
-  facebook = "profile.php?id=61559995936805"
+  facebook = "pepsfeeder"
   pinterest = "pepsfeeder"
   email = "support@pepsfeeder.com"
 
@@ -67,11 +67,6 @@ copyright = "&copy; Copyright 2024 pepsfeeder"
   identifier = "strategy"
   url = "/strategy"
   weight = 4
-[[menu.main]]
-  name = "Insight"
-  identifier = "insight"
-  url = "/insight"
-  weight = 5
 
 # Footer Menu
 [[menu.footer]]
