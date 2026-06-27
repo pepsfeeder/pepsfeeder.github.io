@@ -10,12 +10,12 @@
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "Compulsive shopping mania",
-  "image": "https://pepsfeeder.github.io/",
+  "image": "https://pepsfeeder.github.io/wp-content/uploads/2019/12/online-shopping-mania-obssession.jpg",
   "datePublished": "2019-12-29T09:40:37Z",
   "dateModified": "2019-12-29T09:40:37Z",
   "author": {
     "@type": "Person",
-    "name": {"email":"support@pepsfeeder.com","facebook":"profile.php?id=61559995936805","gravatar":"Gravatar email or MD5 Hash","name":"Chris Mano","pinterest":"pepsfeeder","twitter":"pepsfeeder"}
+    "name": {"email":"support@pepsfeeder.com","facebook":"pepsfeeder","gravatar":"Gravatar email or MD5 Hash","name":"Chris Mano","pinterest":"pepsfeeder","twitter":"pepsfeeder"}
   },
   "mainEntityOfPage": { "@type": "WebPage" },
    "publisher": {
@@ -60,7 +60,7 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@pepsfeeder" />
   <meta name="twitter:creator" content="@pepsfeeder" />
-  <meta name="generator" content="Hugo 0.92.2" />
+  <meta name="generator" content="Hugo 0.131.0">
 <link rel="manifest" href="/manifest.json">
 
 <link rel="stylesheet" href="/css/style.css" media="all" />
@@ -103,17 +103,23 @@
     <h1 class="site-title">
       <a href="/"><img src="/images/logo.png" alt="logo"></a>
     </h1>
-    <a style="font-size: 8px; text-decoration: none; cursor: pointer;" id="dark-mode-toggle" class="fa-solid fa-moon">Dark Mode</a>
-    <div class="topnav" id="myTopnav">
+    <div class="site-tools">
+      <div class="dark-mode-switch">
+        <input type="checkbox" id="dark-mode-toggle" class="checkbox">
+        <label for="dark-mode-toggle" class="toggle">
+          <i class="fa-solid fa-moon"></i>
+          <i class="fa-solid fa-sun"></i>
+          <div class="ball"></div>
+        </label>
+      </div>
+      <div class="topnav" id="myTopnav">
       <a href="/" title="Home">Home</a>
       <a href="/wellness" title="Wellness">Wellness</a>
-      <a href="/news" title="News">News</a>
-      <a href="/lifestyle" title="Lifestyle">Lifestyle</a>
-      <a href="/entertainment" title="Entertainment">Entertainment</a>
-      <a href="/genz" title="Gen Z">Gen Z</a>
-      <a href="javascript:void(0);" class="icon" onclick="TopNav()"><i class="fa-solid fa-bars"></i></a>
-    </div>
-  </nav>
+      <a href="/digital" title="Digital">Digital</a>
+      <a href="/strategy" title="Strategy">Strategy</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="TopNav()" id="mobile-menu-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg></a>
+          </div>  </nav>
 </header>
 <hr class="site-header-bottom">
 
@@ -212,8 +218,8 @@ Addiction scientist Khazaal says that “the motivational approach and psychothe
 
   <div class="disqus-comments">
     <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
+<script>
+    window.disqus_config = function () {
     
     
     
@@ -257,7 +263,7 @@ Addiction scientist Khazaal says that “the motivational approach and psychothe
     
 <ul class="author-social">
   <li><a href="//twitter.com/pepsfeeder" rel="me" target="_blank"><i class="fab fa-twitter"></i></a></li>
-  <li><a href="//facebook.com/profile.php?id=61559995936805" rel="me" target="_blank"><i class="fab fa-facebook"></i></a></li>
+  <li><a href="//facebook.com/pepsfeeder" rel="me" target="_blank"><i class="fab fa-facebook"></i></a></li>
   <li><a href="//pinterest.com/pepsfeeder" rel="me" target="_blank"><i class="fab fa-pinterest"></i></a></li>
   <li><a href="mailto:support@pepsfeeder.com" target="_blank"><i class="fas fa-envelope"></i></a></li>
 </ul>
@@ -270,6 +276,9 @@ Addiction scientist Khazaal says that “the motivational approach and psychothe
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   
 </div>
+
+  
+
 
 
   <style>

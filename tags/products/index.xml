@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>products on PepsFeeder</title>
+    <title>Products on PepsFeeder</title>
     <link>https://pepsfeeder.github.io/tags/products/</link>
-    <description>Recent content in products on PepsFeeder</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Products on PepsFeeder</description>
+    <generator>Hugo</generator>
     <language>en-US</language>
+    <managingEditor>support@pepsfeeder.com (Chris Mano)</managingEditor>
+    <webMaster>support@pepsfeeder.com (Chris Mano)</webMaster>
     <copyright>&amp;copy; Copyright 2024 pepsfeeder</copyright>
-    <lastBuildDate>Fri, 28 Jun 2019 08:03:07 +0000</lastBuildDate><atom:link href="https://pepsfeeder.github.io/tags/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2019 08:03:07 +0000</lastBuildDate>
+    <atom:link href="https://pepsfeeder.github.io/tags/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amazon Products You Never Knew You … or Anyone … Needed</title>
+      <title>Impulse Buying, Novelty Pets, and the Psychology of Modern Consumption</title>
       <link>https://pepsfeeder.github.io/amazon-products-you-never-knew-you-or-anyone-needed/</link>
-      <pubDate>Fri, 28 Jun 2019 08:03:07 +0000</pubDate>
-      
+      <pubDate>Fri, 28 Jun 2019 08:03:07 +0000</pubDate><author>support@pepsfeeder.com (Chris Mano)</author>
       <guid>https://pepsfeeder.github.io/amazon-products-you-never-knew-you-or-anyone-needed/</guid>
-      <description>It&amp;rsquo;s not hyperbole to say that Amazon has completely changed the retail marketplace forever. The site has opened up retail to anyone with internet access. Along with that, however, it&amp;rsquo;s given every kind of product under the sun a marketplace.</description>
+      <description>Amazon Products You Never Knew You … or Anyone … Needed It&amp;rsquo;s not hyperbole to say that Amazon has completely changed the retail marketplace forever. The site has opened up retail to anyone with internet access.</description>
     </item>
-    
   </channel>
 </rss>

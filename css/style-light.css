@@ -81,11 +81,16 @@ img {
 .site-navi {
   display: -webkit-flex;
   display: flex;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-  -webkit-align-items: baseline;
-  align-items: baseline;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  align-items: center;
   padding-bottom: 8px;
+}
+
+.site-tools {
+  display: flex;
+  align-items: center;
 }
 
 .site-navi a {
@@ -129,6 +134,86 @@ img {
 .site-navi-items li {
   padding-left: 20px;
   white-space: nowrap;
+}
+
+#mobile-menu-icon {
+  display: none; /* Hide on desktop */
+}
+
+/* Dark Mode Switch */
+.dark-mode-switch {
+  margin-right: 15px; /* Spacing from nav items */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark-mode-switch .checkbox {
+  opacity: 0;
+  position: absolute;
+}
+
+.dark-mode-switch .toggle {
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  height: 24px; /* Reverted height */
+  width: 48px; /* Reverted width */
+  transition: background-color 0.3s ease;
+}
+
+.dark-mode-switch .toggle i {
+  color: #ffc000;
+  position: absolute;
+  transition: opacity 0.3s ease;
+  font-size: 0.8em; /* Reverted icon size */
+}
+
+.dark-mode-switch .toggle .fa-moon {
+  opacity: 0;
+  left: 6px; /* Reverted position */
+  color: #ccc;
+}
+
+.dark-mode-switch .toggle .fa-sun {
+  opacity: 1;
+  right: 6px; /* Reverted position */
+}
+
+.dark-mode-switch .toggle .ball {
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  left: 2px;
+  height: 20px; /* Reverted height */
+  width: 20px; /* Reverted width */
+  transform: translateX(0px);
+  transition: transform 0.3s ease;
+}
+
+/* Checked state */
+.dark-mode-switch .checkbox:checked + .toggle {
+  background-color: #444;
+  border-color: #555;
+}
+
+.dark-mode-switch .checkbox:checked + .toggle .ball {
+  transform: translateX(24px); /* Reverted translation */
+  background-color: #eee;
+}
+
+.dark-mode-switch .checkbox:checked + .toggle .fa-moon {
+  opacity: 1; /* Moon visible */
+}
+
+.dark-mode-switch .checkbox:checked + .toggle .fa-sun {
+  opacity: 0; /* Sun hidden */
 }
 
 .site-header-bottom {
@@ -647,18 +732,22 @@ img {
 
 .topnav {
   overflow: hidden;
+  display: flex; /* Make topnav a flex container */
+  justify-content: flex-end; /* Align items to the right */
 }
 
 .topnav a {
-  float: left;
-  display: block;
+  /* Removed display: block */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-weight: bold; /* Make menu items a bit bolder */
+  transition: background-color 0.3s ease; /* Smooth transition for hover */
 }
 
 .topnav a:hover {
-  color: purple;
+  background-color: #f0f0f0; /* Subtle background on hover */
+  color: #1a4a9c; /* Darker shade of default link color */
 }
 
 .topnav .icon {
@@ -686,61 +775,70 @@ img {
     box-sizing: border-box;
   }
 
-  .topnav a:not(:first-child) {
-    display: none;
+  .site-navi {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
   }
 
-  .topnav a.icon {
-    float: right;
-    display: block;
+  .site-title {
+    margin-top: 0;
+  }
+
+  .site-tools {
+    width: auto; /* Allow content to dictate width */
+    justify-content: flex-end; /* Push items to the right */
+    order: 2; /* Place site-tools below site-title if it wraps */
+    margin-top: 0; /* No extra space below logo */
+  }
+
+  .dark-mode-switch {
+    margin-right: 10px; /* Adjust spacing */
+  }
+
+  .topnav {
+    width: 100%;
+    justify-content: flex-start; /* Align menu items to the left */
+    order: 3; /* Ensure it's below the switch and icon */
+    flex-direction: column; /* Stack menu items vertically */
+    display: none; /* Hide by default on mobile */
   }
 
   .topnav.responsive {
-    position: relative;
-  }
-
-  .topnav.responsive a.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
+    display: flex; /* Show when responsive class is active */
   }
 
   .topnav.responsive a {
-    float: none;
-    display: block;
+    display: block; /* Make menu items block level for vertical stacking */
     text-align: left;
-  }
-
-  .list .article-image {
     width: 100%;
-    box-sizing: border-box;
-    float: none;
-    margin: 0;
   }
 
-  .toc {
+  /* Mobile menu icon */
+  #mobile-menu-icon {
+    display: flex; /* Changed to flex */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    padding: 0; /* Remove padding */
+    height: 48px; /* Set explicit height to match width of switch */
+    width: 48px; /* Set explicit width to create a square clickable area */
+    color: #333; /* Explicitly set a dark color for visibility */
+  }
+
+  .topnav.responsive + #mobile-menu-icon {
+    display: none; /* Hide icon when menu is expanded */
+  }
+
+  /* Hide the regular nav items on mobile when not responsive */
+  .topnav a {
     display: none;
   }
 
-  .archives ul.taxonomies,
-  .archives .archives-item time {
-    display: none;
+  /* Override the above to show all items when responsive */
+  .topnav.responsive a {
+    display: block;
   }
 
-  .terms>ul>li time {
-    display: none;
-  }
-
-  .site-navi {
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-  }
-
-  .terms,
-  .archives {
-    padding: 0;
-  }
-}
 
 @media print {
 

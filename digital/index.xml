@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Well-being on PepsFeeder</title>
+    <link>https://pepsfeeder.github.io/digital/</link>
+    <description>Recent content in Digital Well-being on PepsFeeder</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>support@pepsfeeder.com (Chris Mano)</managingEditor>
+    <webMaster>support@pepsfeeder.com (Chris Mano)</webMaster>
+    <copyright>&amp;copy; Copyright 2024 pepsfeeder</copyright>
+    <atom:link href="https://pepsfeeder.github.io/digital/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

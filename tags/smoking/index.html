@@ -33,7 +33,7 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@pepsfeeder" />
   <meta name="twitter:creator" content="@pepsfeeder" />
-  <meta name="generator" content="Hugo 0.92.2" />
+  <meta name="generator" content="Hugo 0.131.0">
   <link href="/tags/smoking/index.xml" rel="alternate" type="application/rss+xml" title="PepsFeeder" />
   <link href="/tags/smoking/index.xml" rel="feed" type="application/rss+xml" title="PepsFeeder" />
 <link rel="manifest" href="/manifest.json">
@@ -78,17 +78,23 @@
     <h1 class="site-title">
       <a href="/"><img src="/images/logo.png" alt="logo"></a>
     </h1>
-    <a style="font-size: 8px; text-decoration: none; cursor: pointer;" id="dark-mode-toggle" class="fa-solid fa-moon">Dark Mode</a>
-    <div class="topnav" id="myTopnav">
+    <div class="site-tools">
+      <div class="dark-mode-switch">
+        <input type="checkbox" id="dark-mode-toggle" class="checkbox">
+        <label for="dark-mode-toggle" class="toggle">
+          <i class="fa-solid fa-moon"></i>
+          <i class="fa-solid fa-sun"></i>
+          <div class="ball"></div>
+        </label>
+      </div>
+      <div class="topnav" id="myTopnav">
       <a href="/" title="Home">Home</a>
       <a href="/wellness" title="Wellness">Wellness</a>
-      <a href="/news" title="News">News</a>
-      <a href="/lifestyle" title="Lifestyle">Lifestyle</a>
-      <a href="/entertainment" title="Entertainment">Entertainment</a>
-      <a href="/genz" title="Gen Z">Gen Z</a>
-      <a href="javascript:void(0);" class="icon" onclick="TopNav()"><i class="fa-solid fa-bars"></i></a>
-    </div>
-  </nav>
+      <a href="/digital" title="Digital">Digital</a>
+      <a href="/strategy" title="Strategy">Strategy</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="TopNav()" id="mobile-menu-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg></a>
+          </div>  </nav>
 </header>
 <hr class="site-header-bottom">
 
@@ -154,58 +160,6 @@ In her report published by The Healthy website, author Andrea Barbalic said that
         </li>
       </ul>
     </article>
-    <article class="article">
-      <a href="/electronic-cigarettes-suffocate-the-heart-muscle/" class="article-titles">
-        <h2 class="article-title">Electronic cigarettes suffocate the heart muscle</h2>
-        
-      </a>
-      <a href="/electronic-cigarettes-suffocate-the-heart-muscle/"><img src="/wp-content/uploads/2019/11/vape-electronic-cigarette.jpg" class="article-image" /></a>
-      <div class="article-content">
-        Smoking electronic cigarettes significantly affect the health of the heart by reducing the levels of blood flow in it.
-The study was conducted by researchers at the American Heart Association&rsquo;s Tobacco Center and will present its findings to the Society&rsquo;s annual conference, which will be held November 16-18 in Pennsylvania.
-      </div>
-      <div class="article-readmore"><a href="/electronic-cigarettes-suffocate-the-heart-muscle/">Read more...</a></div>
-      <div class="article-floatclear"></div>
-      <ul class="article-meta">
-        <li class="article-meta-date"><time>November 14, 2019</time></li>
-        <li class="article-meta-tags">
-          <a href="/tags/blood-flow/">
-            <i class="fas fa-tag"></i>
-            Blood Flow
-          </a>&nbsp;
-        </li>
-        <li class="article-meta-tags">
-          <a href="/tags/electronic-cigarette/">
-            <i class="fas fa-tag"></i>
-            Electronic Cigarette
-          </a>&nbsp;
-        </li>
-        <li class="article-meta-tags">
-          <a href="/tags/heart/">
-            <i class="fas fa-tag"></i>
-            Heart
-          </a>&nbsp;
-        </li>
-        <li class="article-meta-tags">
-          <a href="/tags/heart-health/">
-            <i class="fas fa-tag"></i>
-            Heart Health
-          </a>&nbsp;
-        </li>
-        <li class="article-meta-tags">
-          <a href="/tags/smoking/">
-            <i class="fas fa-tag"></i>
-            Smoking
-          </a>&nbsp;
-        </li>
-        <li class="article-meta-tags">
-          <a href="/tags/study/">
-            <i class="fas fa-tag"></i>
-            Study
-          </a>&nbsp;
-        </li>
-      </ul>
-    </article>
   </section>
   
 </div>
@@ -239,7 +193,7 @@ The study was conducted by researchers at the American Heart Association&rsquo;s
     
 <ul class="author-social">
   <li><a href="//twitter.com/pepsfeeder" rel="me" target="_blank"><i class="fab fa-twitter"></i></a></li>
-  <li><a href="//facebook.com/profile.php?id=61559995936805" rel="me" target="_blank"><i class="fab fa-facebook"></i></a></li>
+  <li><a href="//facebook.com/pepsfeeder" rel="me" target="_blank"><i class="fab fa-facebook"></i></a></li>
   <li><a href="//pinterest.com/pepsfeeder" rel="me" target="_blank"><i class="fab fa-pinterest"></i></a></li>
   <li><a href="mailto:support@pepsfeeder.com" target="_blank"><i class="fas fa-envelope"></i></a></li>
 </ul>
@@ -252,6 +206,9 @@ The study was conducted by researchers at the American Heart Association&rsquo;s
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   
 </div>
+
+  
+
 
 
   <style>

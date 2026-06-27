@@ -20,7 +20,12 @@ code {
 
 .site-navi a:hover,
 .site-navi a:active {
-  color: white;
+  color: #a0a0a0; /* Lighter gray for general links in dark mode */
+}
+
+.topnav a:hover {
+  background-color: #333333; /* Darker background on hover */
+  color: #f0f0f0; /* Light text color on hover */
 }
 
 .list .article-titles:hover,
@@ -52,7 +57,50 @@ code {
   color: white;
 }
 
+#mobile-menu-icon {
+  color: #eee; /* Explicitly set a light color for visibility in dark mode */
+}
+
+
 .pagination li.active a:hover,
 .pagination li.active a:active {
   color: white;
+}
+
+hr {
+  border-top-color: #444444 !important;
+}
+
+.article img {
+  border-color: #444444;
+}
+
+.article>table {
+  border-color: #444444;
+}
+
+.article>table th,
+.article>table td {
+  border-color: #444444;
+}
+
+.toc {
+  border-color: #444444;
+}
+
+.author-avatar-wrapper {
+  border-color: #444444;
+}
+
+.list .article {
+  border-bottom-color: #444444;
+}
+
+.terms>ul>li {
+  border-bottom-color: #444444;
+}
+
+.archives .archives-month,
+.archives .archives-item {
+  border-bottom-color: #444444;
 }
