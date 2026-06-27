@@ -16,7 +16,7 @@
 ```Shell
 hugo
 npx pagefind --site public
-python3 -m http.serve -d public
+python3 -m http.server -d public
 ```
 - CMS
 [netlify](http://localhost:1313/admin/#/)
