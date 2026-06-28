@@ -41,6 +41,8 @@
   {{- end }}
   {{ hugo.Generator }}
 
+  <link rel="canonical" href="{{ .Permalink | absURL }}">
+
   {{- with .OutputFormats.Get "RSS" }}
   <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
   <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
