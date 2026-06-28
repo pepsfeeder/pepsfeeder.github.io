@@ -1,0 +1,72 @@
+/* Custom CSS for author profiles */
+
+.author-profile {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee; /* Separator */
+  flex-wrap: wrap; /* Allow wrapping on smaller screens */
+}
+
+.author-profile img {
+  border-radius: 50%; /* Make images circular */
+  margin-right: 20px;
+  margin-bottom: 10px; /* For wrapping case */
+  width: 100px; /* Smaller image size */
+  height: 100px; /* Smaller image size */
+  flex-shrink: 0; /* Prevent image from shrinking */
+}
+
+.author-profile h2 {
+  margin: 0 0 5px 0;
+  font-size: 1.8em;
+  color: #333;
+}
+
+.author-profile p {
+  margin: 0 0 3px 0;
+  font-size: 0.95em;
+  color: #555;
+}
+
+.author-profile p.author-role {
+  font-style: italic;
+  color: #777;
+}
+
+.author-profile p.author-phone {
+  font-weight: bold;
+}
+
+.author-profile a {
+  text-decoration: none;
+  color: #2060d0; /* Match site link color */
+}
+
+.author-profile a:hover {
+  text-decoration: underline;
+}
+
+/* Ensure text content takes remaining space */
+.author-profile > div:not(.author-profile img) {
+  flex-grow: 1;
+}
+
+/* Mobile adjustments */
+@media screen and (max-width: 768px) {
+  .author-profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .author-profile img {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .author-profile h2 {
+    font-size: 1.5em;
+  }
+}

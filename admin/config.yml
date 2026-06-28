@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: pepsfeeder/pepsfeeder.github.io
+  branch: main
+  base_url: https://pepsfeeder-cms-proxy.fourmou-m.workers.dev
+  auth_endpoint: /auth
+
+  # publish_mode: editorial_workflow
+
+media_folder: "static/wp-content/uploads"
+public_folder: "/wp-content/uploads"
+
+collections:
+  - name: "posts"
+    label: "Post"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Type", name: "type", widget: "string", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Categories", name: "categories", widget: "list", default: [news] }
+      - { label: "Author", name: "author", widget: "string", default: "Chris Manoel" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
