@@ -431,7 +431,7 @@ We are so busy with our daily life that we forget to think about our heritage. W
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax; Secure";
     }
     function readCookie(name) {
         var nameEQ = name + "=";

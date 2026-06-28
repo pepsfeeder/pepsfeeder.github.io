@@ -392,7 +392,7 @@ Lapland is so far north that it&rsquo;s like a winter wonderland 6 months out of
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax; Secure";
     }
     function readCookie(name) {
         var nameEQ = name + "=";

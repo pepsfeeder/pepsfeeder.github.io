@@ -401,7 +401,7 @@ You say that this does not happen? Can the seller pay extra to the buyer for ta
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax; Secure";
     }
     function readCookie(name) {
         var nameEQ = name + "=";
