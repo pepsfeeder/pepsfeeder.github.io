@@ -1,8 +1,11 @@
 <header class="site-header">
   <nav class="site-navi">
-    <h1 class="site-title">
-      <a href="{{ "/" | relURL }}"><img src="/images/logo.png" alt="logo"></a>
-    </h1>
+    <div class="site-brand">
+      <a href="{{ "/" | relURL }}" class="site-logo-link"><img src="/images/logo.png" alt="logo"></a>
+      {{- with .Site.Params.tagline }}
+      <span class="site-tagline">{{ . }}</span>
+      {{- end }}
+    </div>
     <div class="site-tools">
       <div class="dark-mode-switch">
         <input type="checkbox" id="dark-mode-toggle" class="checkbox">

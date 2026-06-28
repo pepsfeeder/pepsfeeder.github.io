@@ -18,6 +18,7 @@ copyright = "&copy; Copyright 2024 pepsfeeder"
 [params]
   logo = "images/logo.png"
   header = "PEPSFEEDER"
+  tagline = "a lifestyle of wellbeing"
 
   facebook = "pepsfeeder"
   twitter = "pepsfeeder"
