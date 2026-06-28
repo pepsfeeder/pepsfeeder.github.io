@@ -436,7 +436,7 @@ The researchers examined brain tissue in mice fed virgin olive oil, and found no
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

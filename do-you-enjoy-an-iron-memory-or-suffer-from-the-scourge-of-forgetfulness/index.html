@@ -407,7 +407,7 @@ What worries us is that forgetfulness becomes very frequent, and one might think
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

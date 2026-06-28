@@ -546,7 +546,7 @@ Zucchini, also known as courgette, is a summer squash in the Cucurbitaceae plant
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

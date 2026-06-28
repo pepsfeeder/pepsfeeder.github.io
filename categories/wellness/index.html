@@ -779,7 +779,7 @@ When a person sustains a severe brain injury that leaves them unable to communic
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

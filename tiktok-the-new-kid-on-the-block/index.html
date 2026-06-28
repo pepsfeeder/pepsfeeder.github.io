@@ -397,7 +397,7 @@ We will be looking into how it’s changing the game comparing it to like YouTub
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

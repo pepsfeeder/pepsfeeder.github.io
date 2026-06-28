@@ -469,7 +469,7 @@ For example, someone who wants to live a free life is more likely to avoid a fix
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

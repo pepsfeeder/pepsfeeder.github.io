@@ -442,7 +442,7 @@ The German Society for Sports Medicine and Prevention of Exercise warned of a co
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

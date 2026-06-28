@@ -436,7 +436,7 @@ The writer stated that propolis is a resinous, resinous, and balsamic material w
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

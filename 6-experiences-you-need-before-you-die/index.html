@@ -461,7 +461,7 @@ Lapland is so far north that it&rsquo;s like a winter wonderland 6 months out of
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

@@ -396,7 +396,7 @@ Sometimes the best gifts are not necessarily material purposes that can be used,
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

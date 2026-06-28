@@ -441,7 +441,7 @@ Depression is associated with a decrease in a neurotransmitter called serotonin,
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

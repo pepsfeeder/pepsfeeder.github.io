@@ -750,7 +750,7 @@ To give it a good fragrance and align your chakras, add a few drops of tea tree 
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

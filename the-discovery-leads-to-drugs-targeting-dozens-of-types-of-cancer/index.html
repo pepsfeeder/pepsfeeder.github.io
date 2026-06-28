@@ -420,7 +420,7 @@ The author, Sean Lintern, said in a report in the British newspaper “The …">
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

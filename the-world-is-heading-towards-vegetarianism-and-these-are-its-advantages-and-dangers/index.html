@@ -402,7 +402,7 @@ A study conducted by a scientific team at the Austrian University of Grass, whic
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

@@ -500,7 +500,7 @@ We are so busy with our daily life that we forget to think about our heritage. W
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

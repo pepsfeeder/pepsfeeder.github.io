@@ -761,7 +761,7 @@ Dr. Ulrich Fodderholzer says sleep disorders mean an inability to enjoy a restfu
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

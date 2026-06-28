@@ -463,7 +463,7 @@ The author points out that a person&rsquo;s loyalty may be a sign of how well he
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

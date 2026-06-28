@@ -420,7 +420,7 @@ The traditional Korean cuisine &ldquo;Sanakje&rdquo; is mainly a Sanakje octopus
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

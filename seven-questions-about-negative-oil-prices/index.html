@@ -470,7 +470,7 @@ You say that this does not happen? Can the seller pay extra to the buyer for ta
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

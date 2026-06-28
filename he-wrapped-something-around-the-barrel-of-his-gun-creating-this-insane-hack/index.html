@@ -455,7 +455,7 @@ Leave it to these gun-lovers to figure out how to kill two birds with one stone,
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

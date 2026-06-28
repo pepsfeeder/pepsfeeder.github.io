@@ -434,7 +434,7 @@ Unlike other personality traits, charisma can be changed and worked to develop i
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);

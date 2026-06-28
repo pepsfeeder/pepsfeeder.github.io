@@ -408,7 +408,7 @@ If you are dealing with an unfair manager, this is enough to make you hate the w
         el.checked = false;
     });
 
-    if(readCookie('consent-settings')) {
+    if(readCookie('consent-settings') !== null) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);
