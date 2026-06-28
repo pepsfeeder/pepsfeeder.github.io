@@ -54,4 +54,4 @@ date: 2019-06-11T18:57:45+00:00
 
 Should a court of competent jurisdiction rule this Amendment provision invalid, then this Amendment clause shall be terminated as part of this agreement. All amendments to the Terms shall be forward looking.
 
-[1]: /privacy-policy/
+[1]: /privacy/

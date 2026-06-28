@@ -7,7 +7,7 @@
     <img loading="lazy" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" width="150" height="150" />
     {{ end }}
     <div>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <h2>{{ .Title }}</h2>
       {{ if .Params.role }}
       <p class="author-role">{{ .Params.role }}</p>
       {{ end }}

@@ -33,9 +33,7 @@ copyright = "&copy; Copyright 2024 pepsfeeder"
 # This is displayer in About page.
 [params.author]
   name = "Chris Mano"
-  # Gravatar or Abatar image
-  gravatar = "Gravatar email or MD5 Hash"
-  #avatar = "/path/to/avatar"
+  avatar = "/wp-content/uploads/2019/11/chris-300x300.jpeg"
 
   twitter = "pepsfeeder"
   facebook = "pepsfeeder"
