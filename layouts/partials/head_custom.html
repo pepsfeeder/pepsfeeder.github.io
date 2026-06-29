@@ -1,5 +1,8 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 {{ if .Site.Params.googlefonts }}
-<link rel="stylesheet" href="{{ .Site.Params.googlefonts }}" type="text/css" media="all" />
+<link rel="stylesheet" href="{{ .Site.Params.googlefonts }}" type="text/css" media="print" onload="this.media='all'" />
+<noscript><link rel="stylesheet" href="{{ .Site.Params.googlefonts }}" type="text/css" media="all" /></noscript>
 {{ end }}
 <link rel="manifest" href="/manifest.json">
 
@@ -7,11 +10,7 @@
 <link rel="stylesheet" href="{{ "css/syntax.css" | relURL }}" media="all" />
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}" media="all" />
 
-{{- if .Site.Params.useCDN | default false }}
-<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
-{{- else }}
-<script defer src="{{ "js/fontawesome.js" | relURL }}"></script>
-{{- end }}
+
 
 <!-- meta property="fb:pages" content="461752997953233" /-->
   

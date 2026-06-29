@@ -28,7 +28,7 @@
           {{ with .Params.subtitle }}<h3 class="article-subtitle">{{ . }}</h3>{{ end }}
         </a>
         {{- if .Params.image }}
-        <a href="{{ .Permalink | relURL }}"><img src="{{ .Params.image }}" class="article-image" /></a>
+        <a href="{{ .Permalink | relURL }}"><img src="{{ .Params.image }}" class="article-image" width="800" height="450" loading="lazy" /></a>
         {{- end }}
         <div class="article-content">
           {{- if .Truncated }}
@@ -46,7 +46,7 @@
           {{- range .Params.tags }}
           <li class="article-meta-tags">
             <a href="{{ "/" | relURL }}tags/{{ . | urlize }}/">
-              <i class="fas fa-tag"></i>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" fill="currentColor"><path d="M0 80V229.5c0 17 6.7 33.3 18.7 45.3l176 176c12.5 12.5 32.8 12.5 45.3 0L405.3 286c12.5-12.5 12.5-32.8 0-45.3l-176-176c-12-12-28.3-18.7-45.3-18.7H48C21.5 48 0 69.5 0 96zm112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
               {{ . }}
             </a>&nbsp;
           </li>

@@ -10,12 +10,11 @@ disqusShortname = "pepsfeeder-com-1"
 
 summaryLength = 25
 
-googlefonts = "https://fonts.googleapis.com/css?family=Merriweather|Fira+Mono|Droid+Sans|Fira+Code"
-
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright 2024 pepsfeeder"
 
 [params]
+  googlefonts = "https://fonts.googleapis.com/css?family=Merriweather|Fira+Mono|Droid+Sans|Fira+Code"
   logo = "images/logo.png"
   header = "PEPSFEEDER"
   tagline = "a lifestyle of wellbeing"
