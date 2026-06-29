@@ -1,6 +1,6 @@
 body {
-  color: #e0e0e0;
-  background-color: #202020;
+  color: #e8e8e8 !important;
+  background-color: #121212 !important;
 }
 
 a {
@@ -49,7 +49,7 @@ code {
 }
 
 .archives .archives-item>a:visited {
-  color: #707070;
+  color: #a0a0a0;
 }
 
 .archives ul.taxonomies li a:hover,

@@ -2,28 +2,24 @@
 
 var toggle = document.getElementById("dark-mode-toggle");
 var darkTheme = document.getElementById("dark-mode-theme");
-var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
+var stored = localStorage.getItem("dark-mode-storage");
 
-// Set initial state of the checkbox and theme
-setTheme(savedTheme);
+// On first visit, respect OS preference
+if (stored === null) {
+  stored = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
 
-toggle.addEventListener("change", () => { // Use 'change' event for checkboxes
-    if (toggle.checked) {
-        setTheme("dark");
-    } else {
-        setTheme("light");
-    }
+setTheme(stored);
+
+toggle.addEventListener("change", function () {
+  setTheme(toggle.checked ? "dark" : "light");
 });
 
 function setTheme(mode) {
-    localStorage.setItem("dark-mode-storage", mode);
-    if (mode === "dark") {
-        darkTheme.disabled = false;
-        toggle.checked = true; // Set checkbox to checked
-    } else if (mode === "light") {
-        darkTheme.disabled = true;
-        toggle.checked = false; // Set checkbox to unchecked
-    }
+  localStorage.setItem("dark-mode-storage", mode);
+  var isDark = mode === "dark";
+  darkTheme.disabled = !isDark;
+  toggle.checked = isDark;
 }
 
 // Managing cookies

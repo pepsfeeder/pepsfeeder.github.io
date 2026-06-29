@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="google-adsense-account" content="ca-pub-5968995164040249">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link disabled id="dark-mode-theme" rel="stylesheet" href="https://pepsfeeder.github.io//css/dark.css"><script type="application/ld+json">
+  <link disabled id="dark-mode-theme" rel="stylesheet" href="/css/style-dark.css"><script type="application/ld+json">
+[
 
 {
   "@context": "https://schema.org",
@@ -14,10 +15,10 @@
   "sameAs": [
     "https://www.facebook.com/pepsfeeder",
     "https://www.instagram.com/pepsfeeder",
-    "https://twitter.com/pepsfeeder",
-    "https://github.com/"
+    "https://twitter.com/pepsfeeder"
   ]
 }
+]
 </script>
 
   <link rel=”icon” type=”image/ico” href=”/images/9748pepslogo.ico” />
@@ -37,6 +38,8 @@
   <meta name="twitter:site" content="@pepsfeeder" />
   <meta name="twitter:creator" content="@pepsfeeder" />
   <meta name="generator" content="Hugo 0.131.0">
+
+  <link rel="canonical" href="https://pepsfeeder.github.io/terms/">
 <link rel="manifest" href="/manifest.json">
 
 <link rel="stylesheet" href="/css/style.css" media="all" />
@@ -76,9 +79,10 @@
 
   <header class="site-header">
   <nav class="site-navi">
-    <h1 class="site-title">
-      <a href="/"><img src="/images/logo.png" alt="logo"></a>
-    </h1>
+    <div class="site-brand">
+      <a href="/" class="site-logo-link"><img src="/images/logo.png" alt="logo"></a>
+      <span class="site-tagline">a lifestyle of wellbeing</span>
+    </div>
     <div class="site-tools">
       <div class="dark-mode-switch">
         <input type="checkbox" id="dark-mode-toggle" class="checkbox">
@@ -117,7 +121,9 @@
 <p><strong>1. BINDING EFFECT.</strong> This is a binding agreement between you and ’. pepsfeeder .’ (”us”, ”we”, ”Company”). By using the Internet site located at ’. pepsfeeder .’ (the ”Site”), you agree to abide by these Terms of Use. If at any time you find these Terms of Use unacceptable, you must immediately leave the Site and cease all use of it.</p>
 <p><strong>2. PRIVACY POLICY.</strong> We respect your privacy and permit you to control the treatment of your personal information. A complete statement of our current privacy policy can be found by 
 
-  <a href="/privacy-policy/">clicking here</a>. Our privacy policy is expressly incorporated into this Agreement by this reference.</p>
+      
+    
+  <a href="/privacy/">clicking here</a>. Our privacy policy is expressly incorporated into this Agreement by this reference.</p>
 <p><strong>3. GOVERNING LAW.</strong> These Terms of Use shall be construed in accordance with and governed by the laws of California and the United States, without reference to rules regarding conflicts of law. This Site is intended for use by individuals based in the United States of America.</p>
 <p><strong>4. MINIMUM AGE.</strong> You must be at least 18 years old to access and participate on this site. You guarantee and warrant you are at least 18 years old and are able to enter into this Agreement from a legal perspective.</p>
 <p><strong>5. EBOOK SIGNUPS AND MAILINGS.</strong> You have the option, but not obligation, to sign up and receive a free eBook from us. Should you do so, you are agreeing to receive further emailings from us of a commercial nature.</p>
@@ -275,8 +281,44 @@
 <div id="consent-overlay">
     <div>
         
+            <div>
+                
+                <input type="checkbox" id="item0" value="1" name="item0" checked disabled />
+                <label for="item0">
+                    <h3>Strictly necessary</h3>
+                    <p>These are necessary for the website to function and you cannot switch them off. They are usually to enable options like dark mode, and for security to remember your privacy preferences. You can set your browser to block or alert you about these cookies, but some parts of the site will then not work. These cookies don&#39;t contain any information that can directly identify you.</p>
+                </label>
+            </div>
+        
+            <div>
+                
+                <input type="checkbox" id="item1" value="1" name="item1"  />
+                <label for="item1">
+                    <h3>Performance</h3>
+                    <p>This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on. We follow the guidelines of CCPA and GDPR, which describe how to use Analytics without requiring explicit consent.</p>
+                </label>
+            </div>
+        
+            <div>
+                
+                <input type="checkbox" id="item2" value="1" name="item2"  />
+                <label for="item2">
+                    <h3>Functional</h3>
+                    <p>These allow the  website to provide more functionality and personalisation. They may be set by us or by third-party providers whose services we have added to our pages. If you turn them off, some or all of these services may not work properly.</p>
+                </label>
+            </div>
+        
+            <div>
+                
+                <input type="checkbox" id="item3" value="1" name="item3"  />
+                <label for="item3">
+                    <h3>Targeting / advertising</h3>
+                    <p>These are provided by our advertising partners. We use their cookies and site visit pixels for remarketing and to measure and improve the effectiveness of our marketing campaigns. This means that those partners (Google, Meta, LinkedIn, and Instagram) can show our ads to people who have recently visited our websites. Our aim is to retarget businesses who are intersted in our solutions, not individuals browsing the site, but we are not able to distinguish between them.</p>
+                </label>
+            </div>
+        
         <div>
-            <button id="save-consent" class="btn save-consent" data-consentvalue="">Save preferences</button>
+            <button id="save-consent" class="btn save-consent" data-consentvalue="000">Save preferences</button>
             <button class="btn approve-consent">Allow all</button>
         </div>
     </div>
@@ -285,6 +327,9 @@
 <script>
 
     const scripts = [];
+    scripts[ 0 ] = "/js/perf.js";
+    scripts[ 1 ] = "/js/func.js";
+    scripts[ 2 ] = "/js/ads.js";
 
     function createCookie(name,value,days) {
         var expires = "";
@@ -293,7 +338,7 @@
             date.setTime(date.getTime() + (days*24*60*60*1000));
             expires = "; expires=" + date.toUTCString();
         }
-        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax; Secure";
+        document.cookie = name + "=" + value + expires + "; path=/";
     }
     function readCookie(name) {
         var nameEQ = name + "=";
@@ -362,7 +407,7 @@
         el.checked = false;
     });
 
-    if(readCookie('consent-settings') !== null) {
+    if(readCookie('consent-settings')) {
         var consentValue = readCookie('consent-settings').toString();
         
         setConsentInputs(consentValue);
@@ -399,6 +444,16 @@
     });
 </script>
 
+
+    
+        <script type="text/javascript" src="/js/strict.js"></script>
+    
+
+    
+
+    
+
+    
 
   
   

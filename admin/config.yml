@@ -5,7 +5,7 @@ backend:
   base_url: https://pepsfeeder-cms-proxy.fourmou-m.workers.dev
   auth_endpoint: /auth
 
-publish_mode: simple
+  # publish_mode: editorial_workflow
 
 media_folder: "static/wp-content/uploads"
 public_folder: "/wp-content/uploads"
