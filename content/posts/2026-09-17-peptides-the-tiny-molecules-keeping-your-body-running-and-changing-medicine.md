@@ -3,7 +3,7 @@ type: post
 title: "Peptides: The Tiny Molecules Keeping Your Body Running (and Changing
   Medicine)"
 categories:
-  - health
+  - wellness
 author: Chris Manoel
 date: 2026-09-17T16:11:11.372Z
 publishDate: 2026-09-17T16:11:11.402Z
